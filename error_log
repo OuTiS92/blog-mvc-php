@@ -1,0 +1,1047 @@
+[04-Dec-2020 18:18:18 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/index.php on line 4
+[04-Dec-2020 18:18:59 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/index.php on line 4
+[04-Dec-2020 18:21:22 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/index.php on line 4
+[04-Dec-2020 18:35:09 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/index.php on line 4
+[04-Dec-2020 18:35:30 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/index.php on line 4
+[04-Dec-2020 18:40:01 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/index.php on line 4
+[04-Dec-2020 18:40:01 Asia/Tehran] PHP Warning:  include_once(../public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/index.php on line 6
+[04-Dec-2020 18:40:01 Asia/Tehran] PHP Warning:  include_once(): Failed opening '../public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/index.php on line 6
+[04-Dec-2020 18:41:08 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/index.php on line 4
+[04-Dec-2020 18:41:08 Asia/Tehran] PHP Warning:  include_once(public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/index.php on line 6
+[04-Dec-2020 18:41:08 Asia/Tehran] PHP Warning:  include_once(): Failed opening 'public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/index.php on line 6
+[04-Dec-2020 18:41:09 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/index.php on line 4
+[04-Dec-2020 18:41:09 Asia/Tehran] PHP Warning:  include_once(public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/index.php on line 6
+[04-Dec-2020 18:41:09 Asia/Tehran] PHP Warning:  include_once(): Failed opening 'public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/index.php on line 6
+[04-Dec-2020 18:41:11 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/index.php on line 4
+[04-Dec-2020 18:41:11 Asia/Tehran] PHP Warning:  include_once(public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/index.php on line 6
+[04-Dec-2020 18:41:11 Asia/Tehran] PHP Warning:  include_once(): Failed opening 'public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/index.php on line 6
+[04-Dec-2020 18:41:21 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/index.php on line 4
+[04-Dec-2020 18:41:21 Asia/Tehran] PHP Warning:  include_once(public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/index.php on line 6
+[04-Dec-2020 18:41:21 Asia/Tehran] PHP Warning:  include_once(): Failed opening 'public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/index.php on line 6
+[04-Dec-2020 18:41:54 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/index.php on line 4
+[04-Dec-2020 18:41:54 Asia/Tehran] PHP Warning:  include_once(public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/index.php on line 6
+[04-Dec-2020 18:41:54 Asia/Tehran] PHP Warning:  include_once(): Failed opening 'public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/index.php on line 6
+[04-Dec-2020 18:42:14 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/index.php on line 4
+[04-Dec-2020 18:42:14 Asia/Tehran] PHP Warning:  include_once(public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/index.php on line 6
+[04-Dec-2020 18:42:14 Asia/Tehran] PHP Warning:  include_once(): Failed opening 'public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/index.php on line 6
+[04-Dec-2020 18:42:16 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/index.php on line 4
+[04-Dec-2020 18:42:16 Asia/Tehran] PHP Warning:  include_once(public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/index.php on line 6
+[04-Dec-2020 18:42:16 Asia/Tehran] PHP Warning:  include_once(): Failed opening 'public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/index.php on line 6
+[04-Dec-2020 18:42:17 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/index.php on line 4
+[04-Dec-2020 18:42:17 Asia/Tehran] PHP Warning:  include_once(public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/index.php on line 6
+[04-Dec-2020 18:42:17 Asia/Tehran] PHP Warning:  include_once(): Failed opening 'public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/index.php on line 6
+[04-Dec-2020 18:42:19 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/index.php on line 4
+[04-Dec-2020 18:42:19 Asia/Tehran] PHP Warning:  include_once(public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/index.php on line 6
+[04-Dec-2020 18:42:19 Asia/Tehran] PHP Warning:  include_once(): Failed opening 'public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/index.php on line 6
+[04-Dec-2020 18:42:27 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/index.php on line 4
+[04-Dec-2020 18:42:27 Asia/Tehran] PHP Warning:  include_once(public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/index.php on line 6
+[04-Dec-2020 18:42:27 Asia/Tehran] PHP Warning:  include_once(): Failed opening 'public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/index.php on line 6
+[04-Dec-2020 18:42:28 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/index.php on line 4
+[04-Dec-2020 18:42:28 Asia/Tehran] PHP Warning:  include_once(public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/index.php on line 6
+[04-Dec-2020 18:42:28 Asia/Tehran] PHP Warning:  include_once(): Failed opening 'public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/index.php on line 6
+[04-Dec-2020 18:42:30 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/index.php on line 4
+[04-Dec-2020 18:42:30 Asia/Tehran] PHP Warning:  include_once(public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/index.php on line 6
+[04-Dec-2020 18:42:30 Asia/Tehran] PHP Warning:  include_once(): Failed opening 'public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/index.php on line 6
+[04-Dec-2020 18:42:33 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/index.php on line 4
+[04-Dec-2020 18:42:33 Asia/Tehran] PHP Warning:  include_once(public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/index.php on line 6
+[04-Dec-2020 18:42:33 Asia/Tehran] PHP Warning:  include_once(): Failed opening 'public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/index.php on line 6
+[04-Dec-2020 18:42:38 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/index.php on line 4
+[04-Dec-2020 18:42:38 Asia/Tehran] PHP Warning:  include_once(public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/index.php on line 6
+[04-Dec-2020 18:42:38 Asia/Tehran] PHP Warning:  include_once(): Failed opening 'public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/index.php on line 6
+[04-Dec-2020 18:43:13 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/index.php on line 4
+[04-Dec-2020 18:43:13 Asia/Tehran] PHP Warning:  include_once(public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/index.php on line 6
+[04-Dec-2020 18:43:13 Asia/Tehran] PHP Warning:  include_once(): Failed opening 'public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/index.php on line 6
+[04-Dec-2020 18:43:35 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/index.php on line 4
+[04-Dec-2020 18:43:35 Asia/Tehran] PHP Warning:  include_once(public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/index.php on line 6
+[04-Dec-2020 18:43:35 Asia/Tehran] PHP Warning:  include_once(): Failed opening 'public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/index.php on line 6
+[04-Dec-2020 18:43:39 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/index.php on line 4
+[04-Dec-2020 18:43:39 Asia/Tehran] PHP Warning:  include_once(public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/index.php on line 6
+[04-Dec-2020 18:43:39 Asia/Tehran] PHP Warning:  include_once(): Failed opening 'public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/index.php on line 6
+[04-Dec-2020 18:43:42 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/index.php on line 4
+[04-Dec-2020 18:43:42 Asia/Tehran] PHP Warning:  include_once(public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/index.php on line 6
+[04-Dec-2020 18:43:42 Asia/Tehran] PHP Warning:  include_once(): Failed opening 'public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/index.php on line 6
+[04-Dec-2020 18:43:57 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/index.php on line 4
+[04-Dec-2020 18:43:57 Asia/Tehran] PHP Warning:  include_once(public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/index.php on line 6
+[04-Dec-2020 18:43:57 Asia/Tehran] PHP Warning:  include_once(): Failed opening 'public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/index.php on line 6
+[04-Dec-2020 18:44:04 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/index.php on line 4
+[04-Dec-2020 18:44:04 Asia/Tehran] PHP Warning:  include_once(public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/index.php on line 6
+[04-Dec-2020 18:44:04 Asia/Tehran] PHP Warning:  include_once(): Failed opening 'public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/index.php on line 6
+[06-Dec-2020 18:57:25 Asia/Tehran] PHP Warning:  require_once(admin/model/Mprocat): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Clayout.php on line 2
+[06-Dec-2020 18:57:25 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'admin/model/Mprocat' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Clayout.php on line 2
+[06-Dec-2020 18:58:25 Asia/Tehran] PHP Warning:  require_once(admin/model/Mprocat): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Clayout.php on line 2
+[06-Dec-2020 18:58:25 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'admin/model/Mprocat' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Clayout.php on line 2
+[06-Dec-2020 18:58:46 Asia/Tehran] PHP Warning:  require_once(admin/model/Mprocat): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Clayout.php on line 2
+[06-Dec-2020 18:58:46 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'admin/model/Mprocat' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Clayout.php on line 2
+[06-Dec-2020 18:59:26 Asia/Tehran] PHP Warning:  include_once(admin/model/Mprocat): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Clayout.php on line 2
+[06-Dec-2020 18:59:26 Asia/Tehran] PHP Warning:  include_once(): Failed opening 'admin/model/Mprocat' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Clayout.php on line 2
+[06-Dec-2020 18:59:43 Asia/Tehran] PHP Warning:  include_once(admin/model/Mprocat): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Clayout.php on line 2
+[06-Dec-2020 18:59:43 Asia/Tehran] PHP Warning:  include_once(): Failed opening 'admin/model/Mprocat' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Clayout.php on line 2
+[06-Dec-2020 19:00:55 Asia/Tehran] PHP Warning:  include_once(admin/model/Mprocat): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Clayout.php on line 2
+[06-Dec-2020 19:00:55 Asia/Tehran] PHP Warning:  include_once(): Failed opening 'admin/model/Mprocat' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Clayout.php on line 2
+[06-Dec-2020 19:02:18 Asia/Tehran] PHP Warning:  include_once(admin/model/Mprocat): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Clayout.php on line 2
+[06-Dec-2020 19:02:18 Asia/Tehran] PHP Warning:  include_once(): Failed opening 'admin/model/Mprocat' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Clayout.php on line 2
+[06-Dec-2020 19:02:21 Asia/Tehran] PHP Warning:  include_once(admin/model/Mprocat): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Clayout.php on line 2
+[06-Dec-2020 19:02:21 Asia/Tehran] PHP Warning:  include_once(): Failed opening 'admin/model/Mprocat' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Clayout.php on line 2
+[06-Dec-2020 19:03:01 Asia/Tehran] PHP Warning:  include_once(admin/model/Mprocat): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Clayout.php on line 2
+[06-Dec-2020 19:03:01 Asia/Tehran] PHP Warning:  include_once(): Failed opening 'admin/model/Mprocat' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Clayout.php on line 2
+[06-Dec-2020 20:11:48 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetchALL() on boolean in /home/convicti/public_html/shop/admin/model/Mprocat.php:15
+Stack trace:
+#0 /home/convicti/public_html/shop/controller/Clayout.php(4): procat->procat_list_default()
+#1 /home/convicti/public_html/shop/index.php(3): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 15
+[06-Dec-2020 20:13:27 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetchALL() on boolean in /home/convicti/public_html/shop/admin/model/Mprocat.php:15
+Stack trace:
+#0 /home/convicti/public_html/shop/controller/Clayout.php(4): procat->procat_list_default()
+#1 /home/convicti/public_html/shop/index.php(3): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 15
+[06-Dec-2020 20:13:30 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetchALL() on boolean in /home/convicti/public_html/shop/admin/model/Mprocat.php:15
+Stack trace:
+#0 /home/convicti/public_html/shop/controller/Clayout.php(4): procat->procat_list_default()
+#1 /home/convicti/public_html/shop/index.php(3): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 15
+[06-Dec-2020 20:15:06 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/view/layout/header.php on line 201
+[06-Dec-2020 20:15:46 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetchALL() on boolean in /home/convicti/public_html/shop/admin/model/Mprocat.php:15
+Stack trace:
+#0 /home/convicti/public_html/shop/controller/Clayout.php(4): procat->procat_list_default()
+#1 /home/convicti/public_html/shop/index.php(3): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 15
+[06-Dec-2020 20:17:05 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetchALL() on boolean in /home/convicti/public_html/shop/admin/model/Mprocat.php:15
+Stack trace:
+#0 /home/convicti/public_html/shop/controller/Clayout.php(4): procat->procat_list_def()
+#1 /home/convicti/public_html/shop/index.php(3): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 15
+[06-Dec-2020 20:17:07 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetchALL() on boolean in /home/convicti/public_html/shop/admin/model/Mprocat.php:15
+Stack trace:
+#0 /home/convicti/public_html/shop/controller/Clayout.php(4): procat->procat_list_def()
+#1 /home/convicti/public_html/shop/index.php(3): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 15
+[06-Dec-2020 20:20:08 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetchALL() on boolean in /home/convicti/public_html/shop/admin/model/Mprocat.php:15
+Stack trace:
+#0 /home/convicti/public_html/shop/controller/Clayout.php(4): procat->procat_list_def()
+#1 /home/convicti/public_html/shop/index.php(3): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 15
+[06-Dec-2020 20:21:11 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home/convicti/public_html/shop/admin/model/Mprocat.php:15
+Stack trace:
+#0 /home/convicti/public_html/shop/controller/Clayout.php(4): procat->procat_list_def()
+#1 /home/convicti/public_html/shop/index.php(3): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 15
+[06-Dec-2020 20:21:13 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home/convicti/public_html/shop/admin/model/Mprocat.php:15
+Stack trace:
+#0 /home/convicti/public_html/shop/controller/Clayout.php(4): procat->procat_list_def()
+#1 /home/convicti/public_html/shop/index.php(3): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 15
+[06-Dec-2020 20:21:29 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetchALL() on boolean in /home/convicti/public_html/shop/admin/model/Mprocat.php:15
+Stack trace:
+#0 /home/convicti/public_html/shop/controller/Clayout.php(4): procat->procat_list_def()
+#1 /home/convicti/public_html/shop/index.php(3): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 15
+[06-Dec-2020 20:23:45 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetchALL() on boolean in /home/convicti/public_html/shop/admin/model/Mprocat.php:15
+Stack trace:
+#0 /home/convicti/public_html/shop/controller/Clayout.php(4): procat->procat_list_def()
+#1 /home/convicti/public_html/shop/index.php(3): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 15
+[06-Dec-2020 20:23:47 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetchALL() on boolean in /home/convicti/public_html/shop/admin/model/Mprocat.php:15
+Stack trace:
+#0 /home/convicti/public_html/shop/controller/Clayout.php(4): procat->procat_list_def()
+#1 /home/convicti/public_html/shop/index.php(3): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 15
+[06-Dec-2020 20:23:57 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home/convicti/public_html/shop/admin/model/Mprocat.php:15
+Stack trace:
+#0 /home/convicti/public_html/shop/controller/Clayout.php(4): procat->procat_list_def()
+#1 /home/convicti/public_html/shop/index.php(3): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 15
+[06-Dec-2020 20:24:25 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/convicti/public_html/shop/admin/model/Mprocat.php:15
+Stack trace:
+#0 /home/convicti/public_html/shop/controller/Clayout.php(4): procat->procat_list_def()
+#1 /home/convicti/public_html/shop/index.php(3): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 15
+[06-Dec-2020 20:24:58 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/convicti/public_html/shop/admin/model/Mprocat.php:15
+Stack trace:
+#0 /home/convicti/public_html/shop/controller/Clayout.php(4): procat->procat_list_def()
+#1 /home/convicti/public_html/shop/index.php(3): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 15
+[06-Dec-2020 20:25:30 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/convicti/public_html/shop/admin/model/Mprocat.php:15
+Stack trace:
+#0 /home/convicti/public_html/shop/controller/Clayout.php(4): procat->procat_list_def()
+#1 /home/convicti/public_html/shop/index.php(3): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 15
+[06-Dec-2020 20:26:11 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::execute() in /home/convicti/public_html/shop/admin/model/Mprocat.php:14
+Stack trace:
+#0 /home/convicti/public_html/shop/controller/Clayout.php(4): procat->procat_list_def()
+#1 /home/convicti/public_html/shop/index.php(3): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 14
+[06-Dec-2020 20:26:14 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::execute() in /home/convicti/public_html/shop/admin/model/Mprocat.php:14
+Stack trace:
+#0 /home/convicti/public_html/shop/controller/Clayout.php(4): procat->procat_list_def()
+#1 /home/convicti/public_html/shop/index.php(3): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 14
+[06-Dec-2020 20:26:54 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/convicti/public_html/shop/admin/model/Mprocat.php:15
+Stack trace:
+#0 /home/convicti/public_html/shop/controller/Clayout.php(4): procat->procat_list_def()
+#1 /home/convicti/public_html/shop/index.php(3): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 15
+[06-Dec-2020 20:26:56 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/convicti/public_html/shop/admin/model/Mprocat.php:15
+Stack trace:
+#0 /home/convicti/public_html/shop/controller/Clayout.php(4): procat->procat_list_def()
+#1 /home/convicti/public_html/shop/index.php(3): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 15
+[06-Dec-2020 21:47:01 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined method procat::procat_list_def() in /home/convicti/public_html/shop/controller/Clayout.php:4
+Stack trace:
+#0 /home/convicti/public_html/shop/index.php(3): include_once()
+#1 {main}
+  thrown in /home/convicti/public_html/shop/controller/Clayout.php on line 4
+[06-Dec-2020 21:50:15 Asia/Tehran] PHP Parse error:  syntax error, unexpected '=' in /home/convicti/public_html/shop/view/layout/header.php on line 202
+[06-Dec-2020 22:25:48 Asia/Tehran] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/convicti/public_html/shop/view/layout/header.php on line 207
+[06-Dec-2020 22:26:28 Asia/Tehran] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/convicti/public_html/shop/view/layout/header.php on line 207
+[08-Dec-2020 18:59:21 Asia/Tehran] PHP Parse error:  syntax error, unexpected '{' in /home/convicti/public_html/shop/controller/Cpro.php on line 7
+[08-Dec-2020 19:14:22 Asia/Tehran] PHP Parse error:  syntax error, unexpected '{' in /home/convicti/public_html/shop/controller/Cpro.php on line 7
+[08-Dec-2020 19:48:05 Asia/Tehran] PHP Parse error:  syntax error, unexpected '{' in /home/convicti/public_html/shop/controller/Cpro.php on line 7
+[08-Dec-2020 19:48:24 Asia/Tehran] PHP Parse error:  syntax error, unexpected '{' in /home/convicti/public_html/shop/controller/Cpro.php on line 7
+[08-Dec-2020 19:48:28 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined method pro::pro_list_cat_id() in /home/convicti/public_html/shop/controller/Cpro.php:9
+Stack trace:
+#0 /home/convicti/public_html/shop/index.php(9): require_once()
+#1 {main}
+  thrown in /home/convicti/public_html/shop/controller/Cpro.php on line 9
+[08-Dec-2020 20:55:34 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/view/pro/list.php on line 25
+[08-Dec-2020 22:20:59 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/convicti/public_html/shop/admin/model/Mpro.php:25
+Stack trace:
+#0 /home/convicti/public_html/shop/controller/Cpro.php(12): pro->pro_under_list_default('72')
+#1 /home/convicti/public_html/shop/index.php(9): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mpro.php on line 25
+[08-Dec-2020 22:21:06 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/convicti/public_html/shop/admin/model/Mpro.php:25
+Stack trace:
+#0 /home/convicti/public_html/shop/controller/Cpro.php(12): pro->pro_under_list_default('72')
+#1 /home/convicti/public_html/shop/index.php(9): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mpro.php on line 25
+[08-Dec-2020 22:21:08 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/convicti/public_html/shop/admin/model/Mpro.php:25
+Stack trace:
+#0 /home/convicti/public_html/shop/controller/Cpro.php(12): pro->pro_under_list_default('72')
+#1 /home/convicti/public_html/shop/index.php(9): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mpro.php on line 25
+[08-Dec-2020 22:21:10 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/convicti/public_html/shop/admin/model/Mpro.php:25
+Stack trace:
+#0 /home/convicti/public_html/shop/controller/Cpro.php(12): pro->pro_under_list_default('72')
+#1 /home/convicti/public_html/shop/index.php(9): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mpro.php on line 25
+[09-Dec-2020 18:26:21 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined method procat::pro_under_list_default() in /home/convicti/public_html/shop/view/layout/header.php:209
+Stack trace:
+#0 /home/convicti/public_html/shop/index.php(4): include_once()
+#1 {main}
+  thrown in /home/convicti/public_html/shop/view/layout/header.php on line 209
+[09-Dec-2020 18:26:24 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined method procat::pro_under_list_default() in /home/convicti/public_html/shop/view/layout/header.php:209
+Stack trace:
+#0 /home/convicti/public_html/shop/index.php(4): include_once()
+#1 {main}
+  thrown in /home/convicti/public_html/shop/view/layout/header.php on line 209
+[09-Dec-2020 18:26:30 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined method procat::pro_under_list_default() in /home/convicti/public_html/shop/view/layout/header.php:209
+Stack trace:
+#0 /home/convicti/public_html/shop/index.php(4): include_once()
+#1 {main}
+  thrown in /home/convicti/public_html/shop/view/layout/header.php on line 209
+[09-Dec-2020 22:11:21 Asia/Tehran] PHP Warning:  require_once(view/user/register.php.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cuser.php on line 22
+[09-Dec-2020 22:11:21 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/user/register.php.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cuser.php on line 22
+[09-Dec-2020 22:12:12 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class 'user' not found in /home/convicti/public_html/shop/controller/Cuser.php:4
+Stack trace:
+#0 /home/convicti/public_html/shop/index.php(9): require_once()
+#1 {main}
+  thrown in /home/convicti/public_html/shop/controller/Cuser.php on line 4
+[09-Dec-2020 22:12:52 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class 'user' not found in /home/convicti/public_html/shop/controller/Cuser.php:4
+Stack trace:
+#0 /home/convicti/public_html/shop/index.php(9): require_once()
+#1 {main}
+  thrown in /home/convicti/public_html/shop/controller/Cuser.php on line 4
+[09-Dec-2020 22:13:19 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class 'user' not found in /home/convicti/public_html/shop/controller/Cuser.php:4
+Stack trace:
+#0 /home/convicti/public_html/shop/index.php(9): require_once()
+#1 {main}
+  thrown in /home/convicti/public_html/shop/controller/Cuser.php on line 4
+[09-Dec-2020 22:14:46 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class 'user' not found in /home/convicti/public_html/shop/controller/Cuser.php:4
+Stack trace:
+#0 /home/convicti/public_html/shop/index.php(9): require_once()
+#1 {main}
+  thrown in /home/convicti/public_html/shop/controller/Cuser.php on line 4
+[09-Dec-2020 22:15:08 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class 'user' not found in /home/convicti/public_html/shop/controller/Cuser.php:4
+Stack trace:
+#0 /home/convicti/public_html/shop/index.php(9): require_once()
+#1 {main}
+  thrown in /home/convicti/public_html/shop/controller/Cuser.php on line 4
+[09-Dec-2020 22:15:11 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class 'user' not found in /home/convicti/public_html/shop/controller/Cuser.php:4
+Stack trace:
+#0 /home/convicti/public_html/shop/index.php(9): require_once()
+#1 {main}
+  thrown in /home/convicti/public_html/shop/controller/Cuser.php on line 4
+[09-Dec-2020 22:16:31 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class 'user' not found in /home/convicti/public_html/shop/controller/Cuser.php:4
+Stack trace:
+#0 /home/convicti/public_html/shop/index.php(9): require_once()
+#1 {main}
+  thrown in /home/convicti/public_html/shop/controller/Cuser.php on line 4
+[09-Dec-2020 23:21:10 Asia/Tehran] PHP Warning:  require_once(view/user/register.php.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cuser.php on line 18
+[09-Dec-2020 23:21:10 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/user/register.php.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cuser.php on line 18
+[10-Dec-2020 00:23:13 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'convict' (T_STRING), expecting ',' or ')' in /home/convicti/public_html/shop/controller/Cuser.php on line 11
+[10-Dec-2020 01:53:49 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'convict' (T_STRING), expecting ',' or ')' in /home/convicti/public_html/shop/controller/Cuser.php on line 11
+[10-Dec-2020 01:54:40 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'convict' (T_STRING), expecting ',' or ')' in /home/convicti/public_html/shop/controller/Cuser.php on line 11
+[10-Dec-2020 01:55:04 Asia/Tehran] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/convicti/public_html/shop/admin/model/Muser.php on line 12
+[10-Dec-2020 01:57:42 Asia/Tehran] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/convicti/public_html/shop/admin/model/Muser.php on line 12
+[10-Dec-2020 01:58:04 Asia/Tehran] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/convicti/public_html/shop/admin/model/Muser.php on line 12
+[10-Dec-2020 01:59:05 Asia/Tehran] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/convicti/public_html/shop/admin/model/Muser.php on line 12
+[10-Dec-2020 01:59:19 Asia/Tehran] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/convicti/public_html/shop/admin/model/Muser.php on line 12
+[10-Dec-2020 02:00:46 Asia/Tehran] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/convicti/public_html/shop/admin/model/Muser.php on line 12
+[10-Dec-2020 02:01:33 Asia/Tehran] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/convicti/public_html/shop/admin/model/Muser.php on line 12
+[10-Dec-2020 02:03:15 Asia/Tehran] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/convicti/public_html/shop/admin/model/Muser.php on line 12
+[10-Dec-2020 02:03:35 Asia/Tehran] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/convicti/public_html/shop/admin/model/Muser.php on line 12
+[10-Dec-2020 02:05:45 Asia/Tehran] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/convicti/public_html/shop/admin/model/Muser.php on line 12
+[10-Dec-2020 02:05:48 Asia/Tehran] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/convicti/public_html/shop/admin/model/Muser.php on line 12
+[10-Dec-2020 02:06:05 Asia/Tehran] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/convicti/public_html/shop/admin/model/Muser.php on line 12
+[10-Dec-2020 02:06:27 Asia/Tehran] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/convicti/public_html/shop/admin/model/Muser.php on line 12
+[10-Dec-2020 02:06:33 Asia/Tehran] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/convicti/public_html/shop/admin/model/Muser.php on line 12
+[10-Dec-2020 02:06:50 Asia/Tehran] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/convicti/public_html/shop/admin/model/Muser.php on line 12
+[10-Dec-2020 02:06:52 Asia/Tehran] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/convicti/public_html/shop/admin/model/Muser.php on line 12
+[10-Dec-2020 02:07:05 Asia/Tehran] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/convicti/public_html/shop/admin/model/Muser.php on line 12
+[10-Dec-2020 02:07:37 Asia/Tehran] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/convicti/public_html/shop/admin/model/Muser.php on line 12
+[10-Dec-2020 02:07:43 Asia/Tehran] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/convicti/public_html/shop/admin/model/Muser.php on line 12
+[10-Dec-2020 02:07:47 Asia/Tehran] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/convicti/public_html/shop/admin/model/Muser.php on line 12
+[10-Dec-2020 02:07:49 Asia/Tehran] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/convicti/public_html/shop/admin/model/Muser.php on line 12
+[10-Dec-2020 02:08:43 Asia/Tehran] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/convicti/public_html/shop/admin/model/Muser.php on line 12
+[10-Dec-2020 02:09:39 Asia/Tehran] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/convicti/public_html/shop/admin/model/Muser.php on line 12
+[10-Dec-2020 02:12:15 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function user_login() on null in /home/convicti/public_html/shop/controller/Cuser.php:17
+Stack trace:
+#0 /home/convicti/public_html/shop/index.php(9): require_once()
+#1 {main}
+  thrown in /home/convicti/public_html/shop/controller/Cuser.php on line 17
+[10-Dec-2020 02:13:51 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 20
+[10-Dec-2020 02:35:56 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home/convicti/public_html/shop/controller/Cuser.php:20
+Stack trace:
+#0 /home/convicti/public_html/shop/index.php(9): require_once()
+#1 {main}
+  thrown in /home/convicti/public_html/shop/controller/Cuser.php on line 20
+[10-Dec-2020 02:38:26 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 20
+[10-Dec-2020 02:43:55 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 21
+[10-Dec-2020 02:43:55 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function ob_end() in /home/convicti/public_html/shop/controller/Cuser.php:26
+Stack trace:
+#0 /home/convicti/public_html/shop/index.php(9): require_once()
+#1 {main}
+  thrown in /home/convicti/public_html/shop/controller/Cuser.php on line 26
+[10-Dec-2020 02:44:24 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 21
+[10-Dec-2020 02:44:24 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function ob_end() in /home/convicti/public_html/shop/controller/Cuser.php:25
+Stack trace:
+#0 /home/convicti/public_html/shop/index.php(9): require_once()
+#1 {main}
+  thrown in /home/convicti/public_html/shop/controller/Cuser.php on line 25
+[10-Dec-2020 02:44:34 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 21
+[10-Dec-2020 02:44:39 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 21
+[10-Dec-2020 02:44:54 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 21
+[10-Dec-2020 02:49:22 Asia/Tehran] PHP Warning:  require_once(view/user/login?error.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cuser.php on line 27
+[10-Dec-2020 02:49:22 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/user/login?error.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cuser.php on line 27
+[10-Dec-2020 02:54:18 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 24
+[10-Dec-2020 02:57:51 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 24
+[10-Dec-2020 02:58:52 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 21
+[10-Dec-2020 03:03:33 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 20
+[10-Dec-2020 14:04:10 Asia/Tehran] PHP Warning:  require_once(view/user/login?error.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cuser.php on line 26
+[10-Dec-2020 14:04:10 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/user/login?error.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cuser.php on line 26
+[10-Dec-2020 15:55:10 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 20
+[10-Dec-2020 15:55:26 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 20
+[10-Dec-2020 16:22:10 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 20
+[10-Dec-2020 16:22:40 Asia/Tehran] PHP Warning:  Use of undefined constant ob - assumed 'ob' (this will throw an Error in a future version of PHP) in /home/convicti/public_html/shop/controller/Cuser.php on line 2
+[10-Dec-2020 16:22:40 Asia/Tehran] PHP Warning:  Use of undefined constant start - assumed 'start' (this will throw an Error in a future version of PHP) in /home/convicti/public_html/shop/controller/Cuser.php on line 2
+[10-Dec-2020 16:22:40 Asia/Tehran] PHP Warning:  A non-numeric value encountered in /home/convicti/public_html/shop/controller/Cuser.php on line 2
+[10-Dec-2020 16:22:40 Asia/Tehran] PHP Warning:  A non-numeric value encountered in /home/convicti/public_html/shop/controller/Cuser.php on line 2
+[10-Dec-2020 16:22:40 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 20
+[10-Dec-2020 16:22:50 Asia/Tehran] PHP Warning:  Use of undefined constant ob_start - assumed 'ob_start' (this will throw an Error in a future version of PHP) in /home/convicti/public_html/shop/controller/Cuser.php on line 2
+[10-Dec-2020 16:22:52 Asia/Tehran] PHP Warning:  Use of undefined constant ob_start - assumed 'ob_start' (this will throw an Error in a future version of PHP) in /home/convicti/public_html/shop/controller/Cuser.php on line 2
+[10-Dec-2020 16:22:55 Asia/Tehran] PHP Warning:  Use of undefined constant ob_start - assumed 'ob_start' (this will throw an Error in a future version of PHP) in /home/convicti/public_html/shop/controller/Cuser.php on line 2
+[10-Dec-2020 16:22:55 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 20
+[10-Dec-2020 16:23:07 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 19
+[10-Dec-2020 16:23:11 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 19
+[10-Dec-2020 16:23:33 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 19
+[10-Dec-2020 16:23:42 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 19
+[10-Dec-2020 16:27:37 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 20
+[10-Dec-2020 16:28:44 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:257) in /home/convicti/public_html/shop/controller/Cuser.php on line 20
+[10-Dec-2020 16:29:48 Asia/Tehran] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/convicti/public_html/shop/view/user/login.php on line 2
+[10-Dec-2020 16:30:34 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:257) in /home/convicti/public_html/shop/controller/Cuser.php on line 20
+[10-Dec-2020 16:30:38 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:257) in /home/convicti/public_html/shop/controller/Cuser.php on line 20
+[10-Dec-2020 16:30:41 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:257) in /home/convicti/public_html/shop/controller/Cuser.php on line 20
+[10-Dec-2020 16:31:05 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:257) in /home/convicti/public_html/shop/controller/Cuser.php on line 20
+[10-Dec-2020 16:31:24 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:257) in /home/convicti/public_html/shop/controller/Cuser.php on line 20
+[10-Dec-2020 16:31:29 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:257) in /home/convicti/public_html/shop/controller/Cuser.php on line 20
+[10-Dec-2020 16:34:57 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 20
+[10-Dec-2020 16:35:25 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 19
+[10-Dec-2020 16:46:26 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 22
+[10-Dec-2020 16:46:51 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 22
+[10-Dec-2020 16:47:36 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 22
+[10-Dec-2020 16:48:04 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 22
+[10-Dec-2020 16:48:04 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 22
+[10-Dec-2020 16:48:14 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 22
+[10-Dec-2020 16:48:15 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 22
+[10-Dec-2020 16:48:16 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 22
+[10-Dec-2020 16:48:17 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 22
+[10-Dec-2020 17:50:09 Asia/Tehran] PHP Parse error:  syntax error, unexpected '<' in /home/convicti/public_html/shop/controller/Cuser.php on line 22
+[10-Dec-2020 17:50:14 Asia/Tehran] PHP Parse error:  syntax error, unexpected '<' in /home/convicti/public_html/shop/controller/Cuser.php on line 22
+[10-Dec-2020 18:21:32 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'index' (T_STRING), expecting ',' or ';' in /home/convicti/public_html/shop/controller/Cuser.php on line 22
+[10-Dec-2020 18:21:48 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'index' (T_STRING), expecting ',' or ';' in /home/convicti/public_html/shop/controller/Cuser.php on line 22
+[10-Dec-2020 18:22:01 Asia/Tehran] PHP Parse error:  syntax error, unexpected '<' in /home/convicti/public_html/shop/controller/Cuser.php on line 22
+[10-Dec-2020 18:25:11 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'index' (T_STRING) in /home/convicti/public_html/shop/controller/Cuser.php on line 22
+[10-Dec-2020 18:25:13 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'index' (T_STRING) in /home/convicti/public_html/shop/controller/Cuser.php on line 22
+[10-Dec-2020 18:47:22 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 22
+[10-Dec-2020 20:18:43 Asia/Tehran] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/convicti/public_html/shop/index.php on line 14
+[10-Dec-2020 20:19:01 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 22
+[10-Dec-2020 20:19:03 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 22
+[10-Dec-2020 20:20:45 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 23
+[10-Dec-2020 20:20:47 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 23
+[10-Dec-2020 20:21:02 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 23
+[10-Dec-2020 20:21:04 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 23
+[10-Dec-2020 20:21:11 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 23
+[10-Dec-2020 20:21:14 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 23
+[10-Dec-2020 20:21:16 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 23
+[10-Dec-2020 20:21:19 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 23
+[10-Dec-2020 20:21:43 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 23
+[10-Dec-2020 20:23:06 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 23
+[10-Dec-2020 20:25:40 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 23
+[10-Dec-2020 20:25:43 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 23
+[10-Dec-2020 20:29:49 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:261) in /home/convicti/public_html/shop/controller/Cuser.php on line 22
+[10-Dec-2020 20:29:52 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:261) in /home/convicti/public_html/shop/controller/Cuser.php on line 22
+[10-Dec-2020 20:30:02 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:261) in /home/convicti/public_html/shop/controller/Cuser.php on line 22
+[10-Dec-2020 20:30:19 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:261) in /home/convicti/public_html/shop/controller/Cuser.php on line 22
+[10-Dec-2020 20:30:21 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:261) in /home/convicti/public_html/shop/controller/Cuser.php on line 22
+[10-Dec-2020 20:31:22 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 22
+[10-Dec-2020 20:31:43 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 22
+[10-Dec-2020 20:32:03 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 22
+[10-Dec-2020 20:33:00 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 19
+[10-Dec-2020 22:00:58 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 23
+[10-Dec-2020 22:01:06 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 20
+[10-Dec-2020 22:01:11 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 20
+[10-Dec-2020 22:01:35 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 20
+[10-Dec-2020 22:01:38 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 20
+[10-Dec-2020 22:01:39 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 20
+[10-Dec-2020 22:01:56 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/view/layout/header.php:1) in /home/convicti/public_html/shop/controller/Cuser.php on line 23
+[10-Dec-2020 22:10:24 Asia/Tehran] PHP Warning:  require_once(view/user/logout.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cuser.php on line 25
+[10-Dec-2020 22:10:24 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/user/logout.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cuser.php on line 25
+[10-Dec-2020 22:12:05 Asia/Tehran] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/convicti/public_html/shop/controller/Cuser.php on line 30
+[10-Dec-2020 22:12:06 Asia/Tehran] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/convicti/public_html/shop/controller/Cuser.php on line 30
+[10-Dec-2020 22:12:09 Asia/Tehran] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/convicti/public_html/shop/controller/Cuser.php on line 30
+[10-Dec-2020 22:27:17 Asia/Tehran] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/convicti/public_html/shop/controller/Cuser.php on line 30
+[10-Dec-2020 22:27:54 Asia/Tehran] PHP Warning:  require_once(view/user/logout.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cuser.php on line 29
+[10-Dec-2020 22:27:54 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/user/logout.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cuser.php on line 29
+[10-Dec-2020 22:28:10 Asia/Tehran] PHP Warning:  require_once(view/user/logout.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cuser.php on line 29
+[10-Dec-2020 22:28:10 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/user/logout.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cuser.php on line 29
+[10-Dec-2020 22:28:39 Asia/Tehran] PHP Warning:  require_once(view/user/logout.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cuser.php on line 29
+[10-Dec-2020 22:28:39 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/user/logout.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cuser.php on line 29
+[11-Dec-2020 01:41:14 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/convicti/public_html/shop/controller/Cbasket.php on line 11
+[11-Dec-2020 01:43:56 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/convicti/public_html/shop/controller/Cbasket.php on line 11
+[11-Dec-2020 01:44:29 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/convicti/public_html/shop/controller/Cbasket.php on line 11
+[11-Dec-2020 01:44:34 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/convicti/public_html/shop/controller/Cbasket.php on line 11
+[11-Dec-2020 01:44:35 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/convicti/public_html/shop/controller/Cbasket.php on line 11
+[11-Dec-2020 01:44:41 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/convicti/public_html/shop/controller/Cbasket.php on line 11
+[11-Dec-2020 01:44:44 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/convicti/public_html/shop/controller/Cbasket.php on line 11
+[11-Dec-2020 01:45:37 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/convicti/public_html/shop/controller/Cbasket.php on line 10
+[11-Dec-2020 01:46:40 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class 'basket' not found in /home/convicti/public_html/shop/controller/Cbasket.php:4
+Stack trace:
+#0 /home/convicti/public_html/shop/index.php(9): require_once()
+#1 {main}
+  thrown in /home/convicti/public_html/shop/controller/Cbasket.php on line 4
+[11-Dec-2020 01:47:05 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class 'basket' not found in /home/convicti/public_html/shop/controller/Cbasket.php:4
+Stack trace:
+#0 /home/convicti/public_html/shop/index.php(9): require_once()
+#1 {main}
+  thrown in /home/convicti/public_html/shop/controller/Cbasket.php on line 4
+[11-Dec-2020 01:47:08 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class 'basket' not found in /home/convicti/public_html/shop/controller/Cbasket.php:4
+Stack trace:
+#0 /home/convicti/public_html/shop/index.php(9): require_once()
+#1 {main}
+  thrown in /home/convicti/public_html/shop/controller/Cbasket.php on line 4
+[11-Dec-2020 02:08:24 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/view/basket/detail.php on line 15
+[11-Dec-2020 02:08:25 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/view/basket/detail.php on line 15
+[12-Dec-2020 12:21:16 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting end of file in /home/convicti/public_html/shop/view/index/index.php on line 39
+[12-Dec-2020 12:21:37 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/view/index/index.php on line 14
+[12-Dec-2020 12:22:25 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function pro_list() on null in /home/convicti/public_html/shop/view/index/index.php:11
+Stack trace:
+#0 /home/convicti/public_html/shop/controller/Cindex.php(7): require_once()
+#1 /home/convicti/public_html/shop/index.php(9): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/view/index/index.php on line 11
+[12-Dec-2020 12:22:39 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function pro_list() on null in /home/convicti/public_html/shop/view/index/index.php:12
+Stack trace:
+#0 /home/convicti/public_html/shop/controller/Cindex.php(7): require_once()
+#1 /home/convicti/public_html/shop/index.php(9): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/view/index/index.php on line 12
+[12-Dec-2020 12:22:42 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function pro_list() on null in /home/convicti/public_html/shop/view/index/index.php:12
+Stack trace:
+#0 /home/convicti/public_html/shop/controller/Cindex.php(7): require_once()
+#1 /home/convicti/public_html/shop/index.php(9): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/view/index/index.php on line 12
+[12-Dec-2020 12:23:05 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function pro_list() on null in /home/convicti/public_html/shop/view/index/index.php:12
+Stack trace:
+#0 /home/convicti/public_html/shop/controller/Cindex.php(7): require_once()
+#1 /home/convicti/public_html/shop/index.php(9): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/view/index/index.php on line 12
+[12-Dec-2020 12:23:33 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function pro_list() on null in /home/convicti/public_html/shop/view/index/index.php:12
+Stack trace:
+#0 /home/convicti/public_html/shop/controller/Cindex.php(7): require_once()
+#1 /home/convicti/public_html/shop/index.php(9): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/view/index/index.php on line 12
+[12-Dec-2020 12:23:53 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function procat_list() on null in /home/convicti/public_html/shop/view/index/index.php:12
+Stack trace:
+#0 /home/convicti/public_html/shop/controller/Cindex.php(7): require_once()
+#1 /home/convicti/public_html/shop/index.php(9): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/view/index/index.php on line 12
+[12-Dec-2020 16:54:02 Asia/Tehran] PHP Warning:  require_once(view/basket/list.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 17
+[12-Dec-2020 16:54:02 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/list.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 17
+[12-Dec-2020 16:54:27 Asia/Tehran] PHP Warning:  require_once(view/basket/list.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 26
+[12-Dec-2020 16:54:27 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/list.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 26
+[12-Dec-2020 16:54:38 Asia/Tehran] PHP Warning:  require_once(view/basket/list.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 26
+[12-Dec-2020 16:54:38 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/list.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 26
+[12-Dec-2020 16:55:39 Asia/Tehran] PHP Warning:  require_once(view/basket/list.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 26
+[12-Dec-2020 16:55:39 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/list.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 26
+[12-Dec-2020 16:56:40 Asia/Tehran] PHP Warning:  require_once(view/basket/list.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 27
+[12-Dec-2020 16:56:40 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/list.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 27
+[12-Dec-2020 17:00:34 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/view/basket/detail.php on line 15
+[12-Dec-2020 17:07:01 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined method basket::basket_add() in /home/convicti/public_html/shop/controller/Cbasket.php:19
+Stack trace:
+#0 /home/convicti/public_html/shop/index.php(9): require_once()
+#1 {main}
+  thrown in /home/convicti/public_html/shop/controller/Cbasket.php on line 19
+[12-Dec-2020 17:29:38 Asia/Tehran] PHP Warning:  require_once(view/basket/add.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 28
+[12-Dec-2020 17:29:38 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/add.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 28
+[12-Dec-2020 17:29:54 Asia/Tehran] PHP Warning:  require_once(view/basket/add.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 28
+[12-Dec-2020 17:29:54 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/add.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 28
+[12-Dec-2020 17:30:39 Asia/Tehran] PHP Warning:  require_once(view/basket/add.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 28
+[12-Dec-2020 17:30:39 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/add.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 28
+[12-Dec-2020 17:30:45 Asia/Tehran] PHP Warning:  require_once(view/basket/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 28
+[12-Dec-2020 17:30:45 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 28
+[12-Dec-2020 17:31:22 Asia/Tehran] PHP Warning:  require_once(view/basket/add.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 28
+[12-Dec-2020 17:31:22 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/add.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 28
+[12-Dec-2020 17:44:09 Asia/Tehran] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/convicti/public_html/shop/controller/Cbasket.php on line 33
+[12-Dec-2020 17:45:08 Asia/Tehran] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/convicti/public_html/shop/controller/Cbasket.php on line 33
+[12-Dec-2020 17:45:09 Asia/Tehran] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/convicti/public_html/shop/controller/Cbasket.php on line 33
+[12-Dec-2020 17:45:46 Asia/Tehran] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/convicti/public_html/shop/controller/Cbasket.php on line 32
+[12-Dec-2020 17:46:12 Asia/Tehran] PHP Warning:  require_once(view/basket/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 33
+[12-Dec-2020 17:46:12 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 33
+[12-Dec-2020 17:46:16 Asia/Tehran] PHP Warning:  require_once(view/basket/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 33
+[12-Dec-2020 17:46:16 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 33
+[12-Dec-2020 17:46:21 Asia/Tehran] PHP Warning:  require_once(view/basket/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 33
+[12-Dec-2020 17:46:21 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 33
+[12-Dec-2020 17:46:23 Asia/Tehran] PHP Warning:  require_once(view/basket/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 33
+[12-Dec-2020 17:46:23 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 33
+[12-Dec-2020 17:46:24 Asia/Tehran] PHP Warning:  require_once(view/basket/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 33
+[12-Dec-2020 17:46:24 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 33
+[12-Dec-2020 22:45:23 Asia/Tehran] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/convicti/public_html/shop/admin/model/Muser.php on line 9
+[12-Dec-2020 22:48:35 Asia/Tehran] PHP Warning:  Use of undefined constant vc - assumed 'vc' (this will throw an Error in a future version of PHP) in /home/convicti/public_html/shop/controller/Cuser.php on line 9
+[13-Dec-2020 18:01:11 Asia/Tehran] PHP Parse error:  syntax error, unexpected end of file in /home/convicti/public_html/shop/view/index/index.php on line 198
+[13-Dec-2020 18:01:51 Asia/Tehran] PHP Parse error:  syntax error, unexpected end of file in /home/convicti/public_html/shop/view/index/index.php on line 190
+[13-Dec-2020 18:01:54 Asia/Tehran] PHP Parse error:  syntax error, unexpected end of file in /home/convicti/public_html/shop/view/index/index.php on line 190
+[13-Dec-2020 18:44:11 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function isser() in /home/convicti/public_html/shop/view/layout/header.php:79
+Stack trace:
+#0 /home/convicti/public_html/shop/index.php(4): include_once()
+#1 {main}
+  thrown in /home/convicti/public_html/shop/view/layout/header.php on line 79
+[13-Dec-2020 18:44:18 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function isser() in /home/convicti/public_html/shop/view/layout/header.php:79
+Stack trace:
+#0 /home/convicti/public_html/shop/index.php(4): include_once()
+#1 {main}
+  thrown in /home/convicti/public_html/shop/view/layout/header.php on line 79
+[13-Dec-2020 18:44:19 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function isser() in /home/convicti/public_html/shop/view/layout/header.php:79
+Stack trace:
+#0 /home/convicti/public_html/shop/index.php(4): include_once()
+#1 {main}
+  thrown in /home/convicti/public_html/shop/view/layout/header.php on line 79
+[13-Dec-2020 18:44:24 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function isser() in /home/convicti/public_html/shop/view/layout/header.php:79
+Stack trace:
+#0 /home/convicti/public_html/shop/index.php(4): include_once()
+#1 {main}
+  thrown in /home/convicti/public_html/shop/view/layout/header.php on line 79
+[13-Dec-2020 20:04:18 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:31
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(112): main->basket_list_pro(NULL)
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 31
+[13-Dec-2020 20:04:25 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:31
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(112): main->basket_list_pro(NULL)
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 31
+[13-Dec-2020 20:04:27 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:31
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(112): main->basket_list_pro(NULL)
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 31
+[13-Dec-2020 20:05:19 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:31
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(112): main->basket_list_pro(NULL)
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 31
+[13-Dec-2020 20:05:24 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:31
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(112): main->basket_list_pro(NULL)
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 31
+[13-Dec-2020 20:05:47 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:31
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(112): main->basket_list_pro(NULL)
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 31
+[13-Dec-2020 20:06:19 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:30
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(112): main->basket_list_pro(NULL)
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 30
+[13-Dec-2020 20:06:25 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:30
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(112): main->basket_list_pro(NULL)
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 30
+[13-Dec-2020 20:06:27 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:30
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(112): main->basket_list_pro(NULL)
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 30
+[13-Dec-2020 20:08:02 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:30
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(111): main->basket_list_pro(NULL)
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 30
+[13-Dec-2020 20:10:39 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:30
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(110): main->basket_list_pro(NULL)
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 30
+[13-Dec-2020 20:10:44 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:30
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(110): main->basket_list_pro(NULL)
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 30
+[13-Dec-2020 20:10:46 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:30
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(110): main->basket_list_pro(NULL)
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 30
+[13-Dec-2020 20:10:50 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:30
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(110): main->basket_list_pro(NULL)
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 30
+[13-Dec-2020 20:11:59 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:30
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(110): main->basket_list_pro(NULL)
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 30
+[13-Dec-2020 20:14:17 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:32
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(105): main->basket_list_pro(NULL)
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 32
+[13-Dec-2020 20:15:52 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:30
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(110): main->basket_list_pro(NULL)
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 30
+[13-Dec-2020 20:15:54 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:30
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(110): main->basket_list_pro(NULL)
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 30
+[13-Dec-2020 20:16:10 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:30
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(110): main->basket_list_pro(NULL)
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 30
+[13-Dec-2020 20:17:21 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:30
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(110): main->basket_list_pro(NULL)
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 30
+[13-Dec-2020 20:19:37 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:30
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(110): main->basket_list_pro(NULL)
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 30
+[13-Dec-2020 20:20:46 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:30
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(110): main->basket_list_pro(NULL)
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 30
+[13-Dec-2020 20:20:50 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:30
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(110): main->basket_list_pro(NULL)
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 30
+[13-Dec-2020 20:20:52 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:30
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(110): main->basket_list_pro(NULL)
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 30
+[13-Dec-2020 20:20:56 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:30
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(110): main->basket_list_pro(NULL)
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 30
+[13-Dec-2020 20:23:42 Asia/Tehran] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/convicti/public_html/shop/view/layout/header.php on line 128
+[13-Dec-2020 20:24:25 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:30
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(110): main->basket_list_pro(NULL)
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 30
+[13-Dec-2020 20:24:30 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:30
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(110): main->basket_list_pro(NULL)
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 30
+[13-Dec-2020 20:28:50 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:32
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(105): main->basket_list_pro(NULL)
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 32
+[13-Dec-2020 20:29:08 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:32
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(110): main->basket_list_pro(NULL)
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 32
+[13-Dec-2020 20:30:01 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined method procat::pro_basket_list() in /home/convicti/public_html/shop/view/layout/header.php:80
+Stack trace:
+#0 /home/convicti/public_html/shop/index.php(4): include_once()
+#1 {main}
+  thrown in /home/convicti/public_html/shop/view/layout/header.php on line 80
+[13-Dec-2020 20:32:11 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:32
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(108): main->basket_list_pro(NULL)
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 32
+[13-Dec-2020 20:32:16 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:32
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(108): main->basket_list_pro(NULL)
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 32
+[13-Dec-2020 20:33:18 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:32
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(108): main->basket_list_pro(NULL)
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 32
+[13-Dec-2020 20:33:21 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:32
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(108): main->basket_list_pro(NULL)
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 32
+[13-Dec-2020 20:33:22 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:32
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(108): main->basket_list_pro(NULL)
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 32
+[13-Dec-2020 20:33:25 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:32
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(108): main->basket_list_pro(NULL)
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 32
+[13-Dec-2020 20:33:27 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:32
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(108): main->basket_list_pro(NULL)
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 32
+[13-Dec-2020 20:33:29 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:32
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(108): main->basket_list_pro(NULL)
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 32
+[13-Dec-2020 20:33:32 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:32
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(108): main->basket_list_pro(NULL)
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 32
+[13-Dec-2020 20:33:34 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:32
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(108): main->basket_list_pro(NULL)
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 32
+[13-Dec-2020 20:33:36 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:32
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(108): main->basket_list_pro(NULL)
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 32
+[13-Dec-2020 21:37:32 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/view/basket/detail.php on line 15
+[13-Dec-2020 22:38:30 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:32
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(156): main->basket_list_pro(NULL)
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 32
+[13-Dec-2020 22:38:33 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:32
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(156): main->basket_list_pro(NULL)
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 32
+[14-Dec-2020 01:14:11 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/view/basket/detail.php on line 11
+[14-Dec-2020 01:14:11 Asia/Tehran] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/convicti/public_html/shop/view/basket/detail.php on line 89
+[14-Dec-2020 01:38:33 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/view/basket/detail.php on line 11
+[14-Dec-2020 01:38:33 Asia/Tehran] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/convicti/public_html/shop/view/basket/detail.php on line 89
+[14-Dec-2020 01:38:45 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/view/basket/detail.php on line 11
+[14-Dec-2020 01:38:45 Asia/Tehran] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/convicti/public_html/shop/view/basket/detail.php on line 89
+[14-Dec-2020 01:38:47 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/view/basket/detail.php on line 11
+[14-Dec-2020 01:38:47 Asia/Tehran] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/convicti/public_html/shop/view/basket/detail.php on line 89
+[14-Dec-2020 01:38:51 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/view/basket/detail.php on line 11
+[14-Dec-2020 01:38:51 Asia/Tehran] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/convicti/public_html/shop/view/basket/detail.php on line 89
+[14-Dec-2020 01:38:53 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/view/basket/detail.php on line 11
+[14-Dec-2020 01:38:53 Asia/Tehran] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/convicti/public_html/shop/view/basket/detail.php on line 89
+[14-Dec-2020 01:38:55 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/view/basket/detail.php on line 11
+[14-Dec-2020 01:38:55 Asia/Tehran] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/convicti/public_html/shop/view/basket/detail.php on line 89
+[14-Dec-2020 01:38:57 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/view/basket/detail.php on line 11
+[14-Dec-2020 01:38:57 Asia/Tehran] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/convicti/public_html/shop/view/basket/detail.php on line 89
+[14-Dec-2020 01:38:59 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/view/basket/detail.php on line 11
+[14-Dec-2020 01:38:59 Asia/Tehran] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/convicti/public_html/shop/view/basket/detail.php on line 89
+[14-Dec-2020 01:39:01 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/view/basket/detail.php on line 11
+[14-Dec-2020 01:39:01 Asia/Tehran] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/convicti/public_html/shop/view/basket/detail.php on line 89
+[14-Dec-2020 01:39:03 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/view/basket/detail.php on line 11
+[14-Dec-2020 01:39:03 Asia/Tehran] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/convicti/public_html/shop/view/basket/detail.php on line 89
+[14-Dec-2020 01:39:10 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/view/basket/detail.php on line 11
+[14-Dec-2020 01:39:10 Asia/Tehran] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/convicti/public_html/shop/view/basket/detail.php on line 89
+[14-Dec-2020 01:39:11 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/view/basket/detail.php on line 11
+[14-Dec-2020 01:39:11 Asia/Tehran] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/convicti/public_html/shop/view/basket/detail.php on line 89
+[14-Dec-2020 01:39:13 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/view/basket/detail.php on line 11
+[14-Dec-2020 01:39:13 Asia/Tehran] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/convicti/public_html/shop/view/basket/detail.php on line 89
+[14-Dec-2020 01:39:15 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/view/basket/detail.php on line 11
+[14-Dec-2020 01:39:15 Asia/Tehran] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/convicti/public_html/shop/view/basket/detail.php on line 89
+[14-Dec-2020 01:39:16 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/view/basket/detail.php on line 11
+[14-Dec-2020 01:39:16 Asia/Tehran] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/convicti/public_html/shop/view/basket/detail.php on line 89
+[14-Dec-2020 01:40:45 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/view/basket/detail.php on line 11
+[14-Dec-2020 01:40:45 Asia/Tehran] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/convicti/public_html/shop/view/basket/detail.php on line 89
+[14-Dec-2020 01:40:47 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/view/basket/detail.php on line 11
+[14-Dec-2020 01:40:47 Asia/Tehran] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/convicti/public_html/shop/view/basket/detail.php on line 89
+[14-Dec-2020 01:40:48 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/view/basket/detail.php on line 11
+[14-Dec-2020 01:40:48 Asia/Tehran] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/convicti/public_html/shop/view/basket/detail.php on line 89
+[14-Dec-2020 01:54:20 Asia/Tehran] PHP Warning:  require_once(view/basket/ajax.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 51
+[14-Dec-2020 01:54:20 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/ajax.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 51
+[14-Dec-2020 01:54:21 Asia/Tehran] PHP Warning:  require_once(view/basket/ajax.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 51
+[14-Dec-2020 01:54:21 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/ajax.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 51
+[14-Dec-2020 01:54:22 Asia/Tehran] PHP Warning:  require_once(view/basket/ajax.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 51
+[14-Dec-2020 01:54:22 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/ajax.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 51
+[14-Dec-2020 01:54:22 Asia/Tehran] PHP Warning:  require_once(view/basket/ajax.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 51
+[14-Dec-2020 01:54:22 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/ajax.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 51
+[14-Dec-2020 15:09:41 Asia/Tehran] PHP Fatal error:  Cannot redeclare basket::basket_pay() in /home/convicti/public_html/shop/admin/model/Mbasket.php on line 24
+[14-Dec-2020 15:10:30 Asia/Tehran] PHP Fatal error:  Cannot redeclare basket::basket_pay() in /home/convicti/public_html/shop/admin/model/Mbasket.php on line 24
+[14-Dec-2020 15:21:18 Asia/Tehran] PHP Warning:  require_once(view/basket/pay.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[14-Dec-2020 15:21:18 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/pay.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[14-Dec-2020 15:33:00 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/view/basket/check.php on line 11
+[14-Dec-2020 15:33:00 Asia/Tehran] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/convicti/public_html/shop/view/basket/check.php on line 85
+[14-Dec-2020 15:33:00 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/view/basket/detail.php on line 11
+[14-Dec-2020 15:33:00 Asia/Tehran] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/convicti/public_html/shop/view/basket/detail.php on line 89
+[14-Dec-2020 16:26:22 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'شما' (T_STRING) in /home/convicti/public_html/shop/view/layout/header.php on line 146
+[14-Dec-2020 16:26:36 Asia/Tehran] PHP Parse error:  syntax error, unexpected '}' in /home/convicti/public_html/shop/view/layout/header.php on line 145
+[14-Dec-2020 16:27:04 Asia/Tehran] PHP Parse error:  syntax error, unexpected '}' in /home/convicti/public_html/shop/view/layout/header.php on line 145
+[14-Dec-2020 16:28:19 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'شما' (T_STRING) in /home/convicti/public_html/shop/view/layout/header.php on line 146
+[14-Dec-2020 16:29:28 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'شما' (T_STRING) in /home/convicti/public_html/shop/view/layout/header.php on line 147
+[14-Dec-2020 16:29:44 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'شما' (T_STRING) in /home/convicti/public_html/shop/view/layout/header.php on line 147
+[14-Dec-2020 16:32:17 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:32
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(114): main->basket_list_pro('3')
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 32
+[14-Dec-2020 16:33:45 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:32
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(114): main->basket_list_pro('3')
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 32
+[14-Dec-2020 16:34:12 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/convicti/public_html/shop/admin/model/Mindex.php:32
+Stack trace:
+#0 /home/convicti/public_html/shop/view/layout/header.php(114): main->basket_list_pro('3')
+#1 /home/convicti/public_html/shop/index.php(4): include_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mindex.php on line 32
+[14-Dec-2020 16:39:33 Asia/Tehran] PHP Warning:  require_once(view/basket/pay.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[14-Dec-2020 16:39:33 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/pay.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[14-Dec-2020 16:41:15 Asia/Tehran] PHP Warning:  require_once(view/basket/pay.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[14-Dec-2020 16:41:15 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/pay.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[14-Dec-2020 20:21:49 Asia/Tehran] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/convicti/public_html/shop/controller/Cpro.php:29
+Stack trace:
+#0 /home/convicti/public_html/shop/index.php(9): require_once()
+#1 {main}
+  thrown in /home/convicti/public_html/shop/controller/Cpro.php on line 29
+[14-Dec-2020 20:22:38 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetchALL() on boolean in /home/convicti/public_html/shop/admin/model/Mpro.php:56
+Stack trace:
+#0 /home/convicti/public_html/shop/controller/Cpro.php(29): pro->pro_compare('on,on')
+#1 /home/convicti/public_html/shop/index.php(9): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mpro.php on line 56
+[14-Dec-2020 20:23:24 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/convicti/public_html/shop/admin/model/Mpro.php:58
+Stack trace:
+#0 /home/convicti/public_html/shop/controller/Cpro.php(29): pro->pro_compare('on,on')
+#1 /home/convicti/public_html/shop/index.php(9): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mpro.php on line 58
+[14-Dec-2020 20:23:48 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home/convicti/public_html/shop/admin/model/Mpro.php:58
+Stack trace:
+#0 /home/convicti/public_html/shop/controller/Cpro.php(29): pro->pro_compare('on,on')
+#1 /home/convicti/public_html/shop/index.php(9): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mpro.php on line 58
+[14-Dec-2020 20:23:56 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home/convicti/public_html/shop/admin/model/Mpro.php:58
+Stack trace:
+#0 /home/convicti/public_html/shop/controller/Cpro.php(29): pro->pro_compare('on,on')
+#1 /home/convicti/public_html/shop/index.php(9): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mpro.php on line 58
+[14-Dec-2020 20:24:20 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/convicti/public_html/shop/admin/model/Mpro.php:56
+Stack trace:
+#0 /home/convicti/public_html/shop/controller/Cpro.php(29): pro->pro_compare('on,on')
+#1 /home/convicti/public_html/shop/index.php(9): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mpro.php on line 56
+[14-Dec-2020 20:25:00 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/convicti/public_html/shop/admin/model/Mpro.php:56
+Stack trace:
+#0 /home/convicti/public_html/shop/controller/Cpro.php(29): pro->pro_compare('on,on')
+#1 /home/convicti/public_html/shop/index.php(9): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mpro.php on line 56
+[14-Dec-2020 20:25:13 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/convicti/public_html/shop/admin/model/Mpro.php:56
+Stack trace:
+#0 /home/convicti/public_html/shop/controller/Cpro.php(29): pro->pro_compare('on,on')
+#1 /home/convicti/public_html/shop/index.php(9): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mpro.php on line 56
+[14-Dec-2020 20:25:59 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/convicti/public_html/shop/admin/model/Mpro.php:56
+Stack trace:
+#0 /home/convicti/public_html/shop/controller/Cpro.php(29): pro->pro_compare('on,on')
+#1 /home/convicti/public_html/shop/index.php(9): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mpro.php on line 56
+[14-Dec-2020 22:38:27 Asia/Tehran] PHP Parse error:  syntax error, unexpected ')' in /home/convicti/public_html/shop/index.php on line 3
+[14-Dec-2020 22:39:13 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'search' (T_STRING) in /home/convicti/public_html/shop/index.php on line 17
+[14-Dec-2020 22:40:24 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/convicti/public_html/shop/index.php on line 16
+[14-Dec-2020 22:43:09 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/convicti/public_html/shop/index.php on line 16
+[14-Dec-2020 22:43:46 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/convicti/public_html/shop/index.php on line 16
+[14-Dec-2020 22:48:46 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/convicti/public_html/shop/index.php on line 17
+[14-Dec-2020 22:48:49 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/convicti/public_html/shop/index.php on line 17
+[14-Dec-2020 23:57:53 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/convicti/public_html/shop/index.php on line 17
+[14-Dec-2020 23:57:55 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/convicti/public_html/shop/index.php on line 17
+[14-Dec-2020 23:58:39 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/convicti/public_html/shop/index.php on line 17
+[15-Dec-2020 00:04:05 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/convicti/public_html/shop/index.php on line 17
+[15-Dec-2020 00:04:52 Asia/Tehran] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/convicti/public_html/shop/public/include/config.php on line 3
+[15-Dec-2020 14:21:00 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/view/basket/detail.php on line 11
+[15-Dec-2020 14:21:00 Asia/Tehran] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/convicti/public_html/shop/view/basket/detail.php on line 89
+[15-Dec-2020 16:35:52 Asia/Tehran] PHP Warning:  require_once(view/basket/ajax.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 16:35:52 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/ajax.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 16:35:52 Asia/Tehran] PHP Warning:  require_once(view/basket/ajax.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 16:35:52 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/ajax.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:44 Asia/Tehran] PHP Warning:  require_once(view/basket/ajax.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:44 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/ajax.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:44 Asia/Tehran] PHP Warning:  require_once(view/basket/ajax.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:44 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/ajax.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:44 Asia/Tehran] PHP Warning:  require_once(view/basket/ajax.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:44 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/ajax.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:44 Asia/Tehran] PHP Warning:  require_once(view/basket/ajax.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:44 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/ajax.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:44 Asia/Tehran] PHP Warning:  require_once(view/basket/ajax.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:44 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/ajax.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:44 Asia/Tehran] PHP Warning:  require_once(view/basket/ajax.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:44 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/ajax.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:44 Asia/Tehran] PHP Warning:  require_once(view/basket/ajax.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:44 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/ajax.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:44 Asia/Tehran] PHP Warning:  require_once(view/basket/ajax.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:44 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/ajax.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:45 Asia/Tehran] PHP Warning:  require_once(view/basket/ajax.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:45 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/ajax.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:45 Asia/Tehran] PHP Warning:  require_once(view/basket/ajax.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:45 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/ajax.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:45 Asia/Tehran] PHP Warning:  require_once(view/basket/ajax.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:45 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/ajax.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:45 Asia/Tehran] PHP Warning:  require_once(view/basket/ajax.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:45 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/ajax.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:45 Asia/Tehran] PHP Warning:  require_once(view/basket/ajax.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:45 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/ajax.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:45 Asia/Tehran] PHP Warning:  require_once(view/basket/ajax.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:45 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/ajax.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:47 Asia/Tehran] PHP Warning:  require_once(view/basket/ajax.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:47 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/ajax.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:47 Asia/Tehran] PHP Warning:  require_once(view/basket/ajax.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:47 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/ajax.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:47 Asia/Tehran] PHP Warning:  require_once(view/basket/ajax.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:47 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/ajax.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:47 Asia/Tehran] PHP Warning:  require_once(view/basket/ajax.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:47 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/ajax.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:47 Asia/Tehran] PHP Warning:  require_once(view/basket/ajax.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:47 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/ajax.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:47 Asia/Tehran] PHP Warning:  require_once(view/basket/ajax.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:47 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/ajax.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:47 Asia/Tehran] PHP Warning:  require_once(view/basket/ajax.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:47 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/ajax.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:47 Asia/Tehran] PHP Warning:  require_once(view/basket/ajax.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:47 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/ajax.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:48 Asia/Tehran] PHP Warning:  require_once(view/basket/ajax.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:48 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/ajax.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:48 Asia/Tehran] PHP Warning:  require_once(view/basket/ajax.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:48 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/ajax.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:48 Asia/Tehran] PHP Warning:  require_once(view/basket/ajax.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:48 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/ajax.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:48 Asia/Tehran] PHP Warning:  require_once(view/basket/ajax.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:48 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/ajax.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:49 Asia/Tehran] PHP Warning:  require_once(view/basket/ajax.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:49 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/ajax.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:49 Asia/Tehran] PHP Warning:  require_once(view/basket/ajax.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/controller/Cbasket.php on line 71
+[15-Dec-2020 20:16:49 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/basket/ajax.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/controller/Cbasket.php on line 71

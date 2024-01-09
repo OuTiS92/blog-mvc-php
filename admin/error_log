@@ -1,0 +1,758 @@
+[04-Dec-2020 17:38:28 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:09:56 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:10:12 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:19:49 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:19:51 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:20:08 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:21:05 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:21:20 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:22:12 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:22:14 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:22:42 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:23:08 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:24:20 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:24:21 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:33:54 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:33:55 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:33:57 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:33:59 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:34:42 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:35:38 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:37:32 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:37:35 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:37:46 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:37:47 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:38:00 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:40:15 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:46:27 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:46:27 Asia/Tehran] PHP Warning:  include_once(../public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 18:46:27 Asia/Tehran] PHP Warning:  include_once(): Failed opening '../public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 18:49:57 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 5
+[04-Dec-2020 18:49:57 Asia/Tehran] PHP Warning:  include_once(../public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/index.php on line 7
+[04-Dec-2020 18:49:57 Asia/Tehran] PHP Warning:  include_once(): Failed opening '../public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/index.php on line 7
+[04-Dec-2020 18:50:13 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 5
+[04-Dec-2020 18:50:13 Asia/Tehran] PHP Warning:  include_once(../public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/index.php on line 7
+[04-Dec-2020 18:50:13 Asia/Tehran] PHP Warning:  include_once(): Failed opening '../public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/index.php on line 7
+[04-Dec-2020 18:51:13 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 5
+[04-Dec-2020 18:51:13 Asia/Tehran] PHP Warning:  include_once(../public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/index.php on line 7
+[04-Dec-2020 18:51:13 Asia/Tehran] PHP Warning:  include_once(): Failed opening '../public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/index.php on line 7
+[04-Dec-2020 18:51:19 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 5
+[04-Dec-2020 18:51:19 Asia/Tehran] PHP Warning:  include_once(../public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/index.php on line 7
+[04-Dec-2020 18:51:19 Asia/Tehran] PHP Warning:  include_once(): Failed opening '../public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/index.php on line 7
+[04-Dec-2020 18:51:32 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:51:32 Asia/Tehran] PHP Warning:  include_once(../public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 18:51:32 Asia/Tehran] PHP Warning:  include_once(): Failed opening '../public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 18:53:22 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:53:22 Asia/Tehran] PHP Warning:  include_once(public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 18:53:22 Asia/Tehran] PHP Warning:  include_once(): Failed opening 'public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 18:53:38 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:53:38 Asia/Tehran] PHP Warning:  include_once(public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 18:53:38 Asia/Tehran] PHP Warning:  include_once(): Failed opening 'public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 18:53:52 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:53:52 Asia/Tehran] PHP Warning:  include_once(public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 18:53:52 Asia/Tehran] PHP Warning:  include_once(): Failed opening 'public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 18:54:41 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:54:41 Asia/Tehran] PHP Warning:  include_once(public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 18:54:41 Asia/Tehran] PHP Warning:  include_once(): Failed opening 'public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 18:55:18 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:55:18 Asia/Tehran] PHP Warning:  include_once(public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 18:55:18 Asia/Tehran] PHP Warning:  include_once(): Failed opening 'public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 18:55:37 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:55:37 Asia/Tehran] PHP Warning:  include_once(public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 18:55:37 Asia/Tehran] PHP Warning:  include_once(): Failed opening 'public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 18:56:14 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:56:14 Asia/Tehran] PHP Warning:  include_once(public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 18:56:14 Asia/Tehran] PHP Warning:  include_once(): Failed opening 'public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 18:56:28 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:56:28 Asia/Tehran] PHP Warning:  include_once(public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 18:56:28 Asia/Tehran] PHP Warning:  include_once(): Failed opening 'public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 18:56:35 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:56:35 Asia/Tehran] PHP Warning:  include_once(public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 18:56:35 Asia/Tehran] PHP Warning:  include_once(): Failed opening 'public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 18:56:53 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:56:53 Asia/Tehran] PHP Warning:  include_once(public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 18:56:53 Asia/Tehran] PHP Warning:  include_once(): Failed opening 'public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 18:57:12 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:57:12 Asia/Tehran] PHP Warning:  include_once(public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 18:57:12 Asia/Tehran] PHP Warning:  include_once(): Failed opening 'public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 18:58:44 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:58:44 Asia/Tehran] PHP Warning:  include_once(../public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 18:58:44 Asia/Tehran] PHP Warning:  include_once(): Failed opening '../public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 18:58:45 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:58:45 Asia/Tehran] PHP Warning:  include_once(../public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 18:58:45 Asia/Tehran] PHP Warning:  include_once(): Failed opening '../public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 18:58:49 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:58:49 Asia/Tehran] PHP Warning:  include_once(../public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 18:58:49 Asia/Tehran] PHP Warning:  include_once(): Failed opening '../public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 18:58:53 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:58:53 Asia/Tehran] PHP Warning:  include_once(../public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 18:58:53 Asia/Tehran] PHP Warning:  include_once(): Failed opening '../public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 18:59:08 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 18:59:08 Asia/Tehran] PHP Warning:  include_once(../public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 18:59:08 Asia/Tehran] PHP Warning:  include_once(): Failed opening '../public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 19:00:28 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 19:00:28 Asia/Tehran] PHP Warning:  include_once(../public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 19:00:28 Asia/Tehran] PHP Warning:  include_once(): Failed opening '../public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 19:00:45 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 19:00:45 Asia/Tehran] PHP Warning:  include_once(../public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 19:00:45 Asia/Tehran] PHP Warning:  include_once(): Failed opening '../public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 19:01:41 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 19:01:48 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 19:02:36 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 19:02:36 Asia/Tehran] PHP Warning:  include_once(../public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 19:02:36 Asia/Tehran] PHP Warning:  include_once(): Failed opening '../public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 19:02:56 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 19:02:56 Asia/Tehran] PHP Warning:  include_once(../public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/index.php on line 7
+[04-Dec-2020 19:02:56 Asia/Tehran] PHP Warning:  include_once(): Failed opening '../public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/index.php on line 7
+[04-Dec-2020 19:03:03 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 19:03:03 Asia/Tehran] PHP Warning:  include_once(../public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/index.php on line 7
+[04-Dec-2020 19:03:03 Asia/Tehran] PHP Warning:  include_once(): Failed opening '../public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/index.php on line 7
+[04-Dec-2020 19:03:14 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 19:03:14 Asia/Tehran] PHP Warning:  include_once(../public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 19:03:14 Asia/Tehran] PHP Warning:  include_once(): Failed opening '../public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 19:03:17 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 19:03:17 Asia/Tehran] PHP Warning:  include_once(../public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 19:03:17 Asia/Tehran] PHP Warning:  include_once(): Failed opening '../public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 19:03:28 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 19:03:28 Asia/Tehran] PHP Warning:  include_once(../public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 19:03:28 Asia/Tehran] PHP Warning:  include_once(): Failed opening '../public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 19:03:58 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 19:03:58 Asia/Tehran] PHP Warning:  include_once(../public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 19:03:58 Asia/Tehran] PHP Warning:  include_once(): Failed opening '../public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 19:04:10 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 19:04:10 Asia/Tehran] PHP Warning:  include_once(../public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 19:04:10 Asia/Tehran] PHP Warning:  include_once(): Failed opening '../public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 19:04:24 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 19:04:24 Asia/Tehran] PHP Warning:  include_once(../public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 19:04:24 Asia/Tehran] PHP Warning:  include_once(): Failed opening '../public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 19:05:29 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 19:05:29 Asia/Tehran] PHP Warning:  include_once(../public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 19:05:29 Asia/Tehran] PHP Warning:  include_once(): Failed opening '../public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 19:05:31 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 19:05:31 Asia/Tehran] PHP Warning:  include_once(../public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 19:05:31 Asia/Tehran] PHP Warning:  include_once(): Failed opening '../public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 19:05:44 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 19:07:02 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 19:07:03 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 19:07:04 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 19:07:04 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 19:07:05 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 19:07:05 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 19:07:05 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 19:10:20 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 19:10:48 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 19:49:10 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 19:49:11 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 4
+[04-Dec-2020 19:50:07 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/index.php on line 6
+[04-Dec-2020 23:47:16 Asia/Tehran] PHP Warning:  include_once(public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/index.php on line 7
+[04-Dec-2020 23:47:16 Asia/Tehran] PHP Warning:  include_once(): Failed opening 'public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/index.php on line 7
+[04-Dec-2020 23:47:16 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:9
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(5): procat->procat_list()
+#1 /home/convicti/public_html/shop/admin/index.php(11): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 9
+[04-Dec-2020 23:48:19 Asia/Tehran] PHP Warning:  include_once(public/include/config.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/index.php on line 7
+[04-Dec-2020 23:48:19 Asia/Tehran] PHP Warning:  include_once(): Failed opening 'public/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/index.php on line 7
+[04-Dec-2020 23:48:19 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:9
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(5): procat->procat_list()
+#1 /home/convicti/public_html/shop/admin/index.php(11): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 9
+[04-Dec-2020 23:49:32 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:9
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(5): procat->procat_list()
+#1 /home/convicti/public_html/shop/admin/index.php(11): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 9
+[04-Dec-2020 23:50:20 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:9
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(5): procat->procat_list()
+#1 /home/convicti/public_html/shop/admin/index.php(11): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 9
+[04-Dec-2020 23:53:56 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:9
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(5): procat->procat_list()
+#1 /home/convicti/public_html/shop/admin/index.php(11): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 9
+[04-Dec-2020 23:55:13 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:9
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(5): procat->procat_list()
+#1 /home/convicti/public_html/shop/admin/index.php(11): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 9
+[04-Dec-2020 23:56:34 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:9
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(4): procat->procat_list()
+#1 /home/convicti/public_html/shop/admin/index.php(11): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 9
+[04-Dec-2020 23:56:57 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:9
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(4): procat->procat_list()
+#1 /home/convicti/public_html/shop/admin/index.php(11): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 9
+[05-Dec-2020 00:02:45 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:9
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(7): procat->procat_list()
+#1 /home/convicti/public_html/shop/admin/index.php(11): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 9
+[05-Dec-2020 00:03:05 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:9
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(7): procat->procat_list()
+#1 /home/convicti/public_html/shop/admin/index.php(11): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 9
+[05-Dec-2020 00:03:14 Asia/Tehran] PHP Warning:  require_once(view/procat/list.php.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 16
+[05-Dec-2020 00:03:14 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/list.php.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 16
+[05-Dec-2020 00:04:04 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:9
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(7): procat->procat_list()
+#1 /home/convicti/public_html/shop/admin/index.php(10): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 9
+[05-Dec-2020 00:05:05 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:9
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(7): procat->procat_list()
+#1 /home/convicti/public_html/shop/admin/index.php(10): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 9
+[05-Dec-2020 00:05:06 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:9
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(7): procat->procat_list()
+#1 /home/convicti/public_html/shop/admin/index.php(10): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 9
+[05-Dec-2020 00:07:46 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:9
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(4): procat->procat_list()
+#1 /home/convicti/public_html/shop/admin/index.php(10): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 9
+[05-Dec-2020 00:07:50 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:9
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(4): procat->procat_list()
+#1 /home/convicti/public_html/shop/admin/index.php(10): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 9
+[05-Dec-2020 00:08:03 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:9
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(4): procat->procat_list()
+#1 /home/convicti/public_html/shop/admin/index.php(10): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 9
+[05-Dec-2020 00:08:39 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:9
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(4): procat->procat_list()
+#1 /home/convicti/public_html/shop/admin/index.php(10): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 9
+[05-Dec-2020 00:09:03 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:9
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(4): procat->procat_list()
+#1 /home/convicti/public_html/shop/admin/index.php(10): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 9
+[05-Dec-2020 00:09:06 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:9
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(4): procat->procat_list()
+#1 /home/convicti/public_html/shop/admin/index.php(10): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 9
+[05-Dec-2020 00:09:07 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:9
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(4): procat->procat_list()
+#1 /home/convicti/public_html/shop/admin/index.php(10): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 9
+[05-Dec-2020 00:09:08 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:9
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(4): procat->procat_list()
+#1 /home/convicti/public_html/shop/admin/index.php(10): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 9
+[05-Dec-2020 00:09:11 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:9
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(4): procat->procat_list()
+#1 /home/convicti/public_html/shop/admin/index.php(10): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 9
+[05-Dec-2020 00:09:13 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:9
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(4): procat->procat_list()
+#1 /home/convicti/public_html/shop/admin/index.php(10): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 9
+[05-Dec-2020 00:09:14 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:9
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(4): procat->procat_list()
+#1 /home/convicti/public_html/shop/admin/index.php(10): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 9
+[05-Dec-2020 00:09:15 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:9
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(4): procat->procat_list()
+#1 /home/convicti/public_html/shop/admin/index.php(10): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 9
+[05-Dec-2020 00:09:16 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:9
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(4): procat->procat_list()
+#1 /home/convicti/public_html/shop/admin/index.php(10): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 9
+[05-Dec-2020 00:12:22 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:9
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(7): procat->procat_list()
+#1 /home/convicti/public_html/shop/admin/index.php(10): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 9
+[05-Dec-2020 00:12:25 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:9
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(7): procat->procat_list()
+#1 /home/convicti/public_html/shop/admin/index.php(10): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 9
+[05-Dec-2020 00:13:28 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:9
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(7): procat->procat_list()
+#1 /home/convicti/public_html/shop/admin/index.php(10): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 9
+[05-Dec-2020 00:13:30 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:9
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(7): procat->procat_list()
+#1 /home/convicti/public_html/shop/admin/index.php(10): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 9
+[05-Dec-2020 00:13:32 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:9
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(7): procat->procat_list()
+#1 /home/convicti/public_html/shop/admin/index.php(10): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 9
+[05-Dec-2020 00:13:32 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:9
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(7): procat->procat_list()
+#1 /home/convicti/public_html/shop/admin/index.php(10): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 9
+[05-Dec-2020 00:13:33 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:9
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(7): procat->procat_list()
+#1 /home/convicti/public_html/shop/admin/index.php(10): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 9
+[05-Dec-2020 00:54:43 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:9
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(7): procat->procat_list()
+#1 /home/convicti/public_html/shop/admin/index.php(10): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 9
+[05-Dec-2020 15:52:59 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:9
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(7): procat->procat_list()
+#1 /home/convicti/public_html/shop/admin/index.php(10): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 9
+[05-Dec-2020 15:53:01 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:9
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(7): procat->procat_list()
+#1 /home/convicti/public_html/shop/admin/index.php(10): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 9
+[05-Dec-2020 15:53:17 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:9
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(7): procat->procat_list()
+#1 /home/convicti/public_html/shop/admin/index.php(10): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 9
+[05-Dec-2020 15:54:36 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:9
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(7): procat->procat_list()
+#1 /home/convicti/public_html/shop/admin/index.php(10): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 9
+[05-Dec-2020 15:54:38 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:9
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(7): procat->procat_list()
+#1 /home/convicti/public_html/shop/admin/index.php(10): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 9
+[05-Dec-2020 16:28:15 Asia/Tehran] PHP Warning:  require_once(view/procat/add.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 16
+[05-Dec-2020 16:28:15 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/add.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 16
+[05-Dec-2020 16:47:13 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/admin/view/procat/add.php on line 15
+[05-Dec-2020 16:49:05 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/admin/view/procat/add.php on line 15
+[05-Dec-2020 16:49:16 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/admin/view/procat/add.php on line 15
+[05-Dec-2020 16:49:25 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/admin/view/procat/add.php on line 15
+[05-Dec-2020 16:49:32 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/admin/view/procat/add.php on line 15
+[05-Dec-2020 16:49:35 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/admin/view/procat/add.php on line 15
+[05-Dec-2020 16:50:07 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/admin/view/procat/add.php on line 15
+[05-Dec-2020 16:50:10 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/admin/view/procat/add.php on line 15
+[05-Dec-2020 16:50:26 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/admin/view/procat/add.php on line 15
+[05-Dec-2020 16:52:11 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/admin/view/procat/add.php on line 15
+[05-Dec-2020 16:52:21 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/admin/view/procat/add.php on line 15
+[05-Dec-2020 16:52:33 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/admin/view/procat/add.php on line 15
+[05-Dec-2020 16:55:28 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/admin/view/procat/add.php on line 15
+[05-Dec-2020 16:55:31 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/admin/view/procat/add.php on line 15
+[05-Dec-2020 16:55:44 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/admin/view/procat/add.php on line 15
+[05-Dec-2020 16:55:55 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/admin/view/procat/add.php on line 15
+[05-Dec-2020 16:55:58 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/admin/view/procat/add.php on line 15
+[05-Dec-2020 16:56:12 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/admin/view/procat/add.php on line 15
+[05-Dec-2020 16:56:14 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/admin/view/procat/add.php on line 15
+[05-Dec-2020 17:21:59 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[05-Dec-2020 17:21:59 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 17:21:59 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 17:22:07 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[05-Dec-2020 17:22:07 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 17:22:07 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 17:24:42 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[05-Dec-2020 17:24:42 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 17:24:42 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 17:24:53 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[05-Dec-2020 17:24:53 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 17:24:53 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 17:26:13 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[05-Dec-2020 17:26:13 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 17:26:13 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 17:28:46 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[05-Dec-2020 17:28:46 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 17:28:46 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 17:29:01 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[05-Dec-2020 17:29:01 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 17:29:01 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 17:31:57 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[05-Dec-2020 17:31:57 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 17:31:57 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 17:52:11 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[05-Dec-2020 17:52:11 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 17:52:11 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 17:52:14 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[05-Dec-2020 17:52:14 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 17:52:14 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 17:52:16 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[05-Dec-2020 17:52:16 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 17:52:16 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 17:52:18 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[05-Dec-2020 17:52:18 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 17:52:18 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 17:54:02 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[05-Dec-2020 17:54:02 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 17:54:02 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 17:55:50 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[05-Dec-2020 17:55:50 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 17:55:50 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 17:55:53 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[05-Dec-2020 17:55:53 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 17:55:53 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 17:57:10 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[05-Dec-2020 17:57:10 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 17:57:10 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 17:58:14 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 21
+[05-Dec-2020 17:58:14 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 21
+[05-Dec-2020 18:02:11 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[05-Dec-2020 18:02:11 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 18:02:11 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 18:03:05 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[05-Dec-2020 18:03:05 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 18:03:05 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 18:03:10 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[05-Dec-2020 18:03:10 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 18:03:10 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 18:03:26 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[05-Dec-2020 18:03:26 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 18:03:26 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 18:04:28 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[05-Dec-2020 18:04:28 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 18:04:28 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 18:04:54 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[05-Dec-2020 18:04:54 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 18:04:54 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 18:06:30 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 18:06:30 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 18:07:27 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[05-Dec-2020 18:07:27 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 18:07:27 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 18:09:12 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[05-Dec-2020 18:09:12 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 18:09:12 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 18:09:59 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[05-Dec-2020 18:09:59 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 18:09:59 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 18:10:06 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[05-Dec-2020 18:10:06 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 18:10:06 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 18:10:06 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[05-Dec-2020 18:10:06 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 18:10:06 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 18:10:07 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[05-Dec-2020 18:10:07 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 18:10:07 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 18:10:23 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[05-Dec-2020 18:10:23 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 18:10:23 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 18:17:38 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[05-Dec-2020 18:17:38 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 18:17:38 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 18:34:34 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[05-Dec-2020 18:34:34 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 18:34:34 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 18:34:44 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[05-Dec-2020 18:34:44 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 18:34:44 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 18:38:13 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[05-Dec-2020 18:38:13 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 18:38:13 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 22
+[05-Dec-2020 23:41:55 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:24
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(23): procat->procat_ShowEdit('1')
+#1 /home/convicti/public_html/shop/admin/index.php(10): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 24
+[05-Dec-2020 23:42:07 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:24
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(23): procat->procat_ShowEdit('18')
+#1 /home/convicti/public_html/shop/admin/index.php(10): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 24
+[05-Dec-2020 23:43:24 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:24
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(23): procat->procat_ShowEdit('18')
+#1 /home/convicti/public_html/shop/admin/index.php(10): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 24
+[05-Dec-2020 23:43:30 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:24
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(23): procat->procat_ShowEdit('18')
+#1 /home/convicti/public_html/shop/admin/index.php(10): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 24
+[05-Dec-2020 23:44:02 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:24
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(23): procat->procat_ShowEdit('1')
+#1 /home/convicti/public_html/shop/admin/index.php(10): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 24
+[05-Dec-2020 23:45:47 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:24
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(23): procat->procat_ShowEdit('18')
+#1 /home/convicti/public_html/shop/admin/index.php(10): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 24
+[05-Dec-2020 23:46:58 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:24
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(23): procat->procat_ShowEdit('28')
+#1 /home/convicti/public_html/shop/admin/index.php(10): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 24
+[05-Dec-2020 23:48:20 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/convicti/public_html/shop/admin/model/Mprocat.php:24
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cprocat.php(24): procat->procat_ShowEdit('17')
+#1 /home/convicti/public_html/shop/admin/index.php(10): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mprocat.php on line 24
+[06-Dec-2020 00:06:08 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 20
+[06-Dec-2020 00:06:08 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 33
+[06-Dec-2020 00:06:08 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 33
+[06-Dec-2020 00:06:09 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 20
+[06-Dec-2020 00:06:09 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 33
+[06-Dec-2020 00:06:09 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 33
+[06-Dec-2020 00:06:10 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 20
+[06-Dec-2020 00:06:10 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 33
+[06-Dec-2020 00:06:10 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 33
+[06-Dec-2020 00:06:12 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 20
+[06-Dec-2020 00:06:12 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 33
+[06-Dec-2020 00:06:12 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 33
+[06-Dec-2020 00:07:52 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 29
+[06-Dec-2020 00:09:00 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 29
+[06-Dec-2020 00:09:05 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 29
+[06-Dec-2020 00:24:29 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 29
+[06-Dec-2020 00:24:36 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 20
+[06-Dec-2020 00:24:36 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 33
+[06-Dec-2020 00:24:36 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 33
+[06-Dec-2020 00:26:17 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 20
+[06-Dec-2020 00:26:17 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 33
+[06-Dec-2020 00:26:17 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 33
+[06-Dec-2020 00:26:29 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 20
+[06-Dec-2020 00:26:29 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 33
+[06-Dec-2020 00:26:29 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 33
+[06-Dec-2020 00:27:48 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 33
+[06-Dec-2020 00:27:48 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 33
+[06-Dec-2020 00:27:56 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 33
+[06-Dec-2020 00:27:56 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 33
+[06-Dec-2020 00:31:58 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 33
+[06-Dec-2020 00:31:58 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 33
+[06-Dec-2020 00:32:12 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 33
+[06-Dec-2020 00:32:12 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 33
+[06-Dec-2020 00:38:34 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 20
+[06-Dec-2020 00:38:34 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 33
+[06-Dec-2020 00:38:34 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 33
+[06-Dec-2020 00:39:03 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 20
+[06-Dec-2020 00:39:03 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 33
+[06-Dec-2020 00:39:03 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 33
+[06-Dec-2020 00:42:19 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 20
+[06-Dec-2020 00:42:19 Asia/Tehran] PHP Warning:  require_once(view/procat/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 33
+[06-Dec-2020 00:42:19 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/procat/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 33
+[06-Dec-2020 00:59:41 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 20
+[06-Dec-2020 01:01:19 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[06-Dec-2020 01:01:45 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[06-Dec-2020 01:03:05 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[06-Dec-2020 01:03:39 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[06-Dec-2020 01:05:04 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[06-Dec-2020 01:05:10 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[06-Dec-2020 01:07:14 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[06-Dec-2020 01:07:14 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/view/procat/delete.php on line 3
+[06-Dec-2020 01:07:48 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[06-Dec-2020 01:07:48 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/view/procat/delete.php on line 3
+[06-Dec-2020 01:10:45 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[06-Dec-2020 01:15:56 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 20
+[06-Dec-2020 01:16:15 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 20
+[06-Dec-2020 01:17:49 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 20
+[06-Dec-2020 14:28:45 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 20
+[06-Dec-2020 14:29:01 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 29
+[06-Dec-2020 18:16:27 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[06-Dec-2020 18:17:20 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[06-Dec-2020 18:17:20 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/view/procat/delete.php on line 2
+[06-Dec-2020 18:17:36 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[06-Dec-2020 18:17:36 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/view/procat/delete.php on line 2
+[06-Dec-2020 18:19:57 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[06-Dec-2020 18:20:35 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[06-Dec-2020 18:21:34 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[06-Dec-2020 18:21:43 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[06-Dec-2020 18:22:05 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[06-Dec-2020 18:22:24 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[06-Dec-2020 18:23:16 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 19
+[06-Dec-2020 18:24:17 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 28
+[06-Dec-2020 18:24:31 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 28
+[06-Dec-2020 18:24:32 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 28
+[06-Dec-2020 18:24:35 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 28
+[06-Dec-2020 18:24:38 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 28
+[06-Dec-2020 18:24:39 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 28
+[06-Dec-2020 18:24:53 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 28
+[06-Dec-2020 18:24:54 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 28
+[06-Dec-2020 18:25:13 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 28
+[06-Dec-2020 18:25:53 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cprocat.php on line 28
+[07-Dec-2020 01:52:46 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/admin/view/pro/add.php on line 15
+[07-Dec-2020 01:55:04 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/admin/view/pro/add.php on line 38
+[08-Dec-2020 00:41:03 Asia/Tehran] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/convicti/public_html/shop/admin/controller/Cpro.php on line 13
+[08-Dec-2020 00:41:03 Asia/Tehran] PHP Warning:  end() expects parameter 1 to be array, null given in /home/convicti/public_html/shop/admin/controller/Cpro.php on line 14
+[08-Dec-2020 00:41:03 Asia/Tehran] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/convicti/public_html/shop/admin/controller/Cpro.php:17
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/index.php(10): require_once()
+#1 {main}
+  thrown in /home/convicti/public_html/shop/admin/controller/Cpro.php on line 17
+[08-Dec-2020 00:42:45 Asia/Tehran] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/convicti/public_html/shop/admin/controller/Cpro.php:17
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/index.php(10): require_once()
+#1 {main}
+  thrown in /home/convicti/public_html/shop/admin/controller/Cpro.php on line 17
+[08-Dec-2020 00:44:42 Asia/Tehran] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/convicti/public_html/shop/admin/controller/Cpro.php:17
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/index.php(10): require_once()
+#1 {main}
+  thrown in /home/convicti/public_html/shop/admin/controller/Cpro.php on line 17
+[08-Dec-2020 00:56:17 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cpro.php on line 25
+[08-Dec-2020 00:56:19 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cpro.php on line 25
+[08-Dec-2020 00:58:06 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cpro.php on line 25
+[08-Dec-2020 14:48:27 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined method pro::promaincat_list() in /home/convicti/public_html/shop/admin/controller/Cpro.php:30
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/index.php(10): require_once()
+#1 {main}
+  thrown in /home/convicti/public_html/shop/admin/controller/Cpro.php on line 30
+[08-Dec-2020 14:48:32 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined method pro::promaincat_list() in /home/convicti/public_html/shop/admin/controller/Cpro.php:30
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/index.php(10): require_once()
+#1 {main}
+  thrown in /home/convicti/public_html/shop/admin/controller/Cpro.php on line 30
+[08-Dec-2020 16:08:31 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cpro.php on line 25
+[08-Dec-2020 16:08:34 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cpro.php on line 25
+[08-Dec-2020 16:08:35 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cpro.php on line 25
+[09-Dec-2020 01:31:16 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cpro.php on line 25
+[09-Dec-2020 01:31:18 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cpro.php on line 25
+[09-Dec-2020 02:01:09 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cpro.php on line 25
+[10-Dec-2020 14:06:29 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cpro.php on line 25
+[10-Dec-2020 15:53:38 Asia/Tehran] PHP Warning:  require_once(view/pro/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cpro.php on line 38
+[10-Dec-2020 15:53:38 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/pro/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cpro.php on line 38
+[13-Dec-2020 02:25:40 Asia/Tehran] PHP Parse error:  syntax error, unexpected ')', expecting end of file in /home/convicti/public_html/shop/public/include/config.php on line 3
+[13-Dec-2020 02:25:44 Asia/Tehran] PHP Parse error:  syntax error, unexpected ')', expecting end of file in /home/convicti/public_html/shop/public/include/config.php on line 3
+[13-Dec-2020 02:25:53 Asia/Tehran] PHP Parse error:  syntax error, unexpected ')', expecting end of file in /home/convicti/public_html/shop/public/include/config.php on line 3
+[13-Dec-2020 02:25:55 Asia/Tehran] PHP Parse error:  syntax error, unexpected ')', expecting end of file in /home/convicti/public_html/shop/public/include/config.php on line 3
+[13-Dec-2020 02:25:56 Asia/Tehran] PHP Parse error:  syntax error, unexpected ')', expecting end of file in /home/convicti/public_html/shop/public/include/config.php on line 3
+[13-Dec-2020 02:25:58 Asia/Tehran] PHP Parse error:  syntax error, unexpected ')', expecting end of file in /home/convicti/public_html/shop/public/include/config.php on line 3
+[13-Dec-2020 02:26:01 Asia/Tehran] PHP Parse error:  syntax error, unexpected ')', expecting end of file in /home/convicti/public_html/shop/public/include/config.php on line 3
+[13-Dec-2020 02:26:52 Asia/Tehran] PHP Parse error:  syntax error, unexpected ')' in /home/convicti/public_html/shop/public/include/config.php on line 3
+[13-Dec-2020 02:26:55 Asia/Tehran] PHP Parse error:  syntax error, unexpected ')' in /home/convicti/public_html/shop/public/include/config.php on line 3
+[13-Dec-2020 02:26:56 Asia/Tehran] PHP Parse error:  syntax error, unexpected ')' in /home/convicti/public_html/shop/public/include/config.php on line 3
+[13-Dec-2020 02:26:56 Asia/Tehran] PHP Parse error:  syntax error, unexpected ')' in /home/convicti/public_html/shop/public/include/config.php on line 3
+[13-Dec-2020 16:19:37 Asia/Tehran] PHP Warning:  require_once(view/pro/delete.php): failed to open stream: No such file or directory in /home/convicti/public_html/shop/admin/controller/Cpro.php on line 33
+[13-Dec-2020 16:19:37 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'view/pro/delete.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/convicti/public_html/shop/admin/controller/Cpro.php on line 33
+[14-Dec-2020 16:07:36 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/convicti/public_html/shop/admin/model/Mpro.php on line 52
+[14-Dec-2020 16:07:45 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/convicti/public_html/shop/admin/model/Mpro.php on line 52
+[14-Dec-2020 16:08:58 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class 'pro' not found in /home/convicti/public_html/shop/admin/view/basket/list.php:28
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cbasket.php(11): require_once()
+#1 /home/convicti/public_html/shop/admin/index.php(15): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/view/basket/list.php on line 28
+[14-Dec-2020 16:09:41 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class 'pro' not found in /home/convicti/public_html/shop/admin/view/basket/list.php:28
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cbasket.php(11): require_once()
+#1 /home/convicti/public_html/shop/admin/index.php(15): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/view/basket/list.php on line 28
+[15-Dec-2020 18:09:11 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined method pro::promaincat_list() in /home/convicti/public_html/shop/admin/controller/Cpro.php:26
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/index.php(15): require_once()
+#1 {main}
+  thrown in /home/convicti/public_html/shop/admin/controller/Cpro.php on line 26
+[15-Dec-2020 18:11:15 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined method pro::promaincat_list() in /home/convicti/public_html/shop/admin/controller/Cpro.php:26
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/index.php(15): require_once()
+#1 {main}
+  thrown in /home/convicti/public_html/shop/admin/controller/Cpro.php on line 26
+[15-Dec-2020 18:21:46 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/admin/view/pro/edit.php on line 15
+[15-Dec-2020 18:22:41 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/admin/view/pro/edit.php on line 15
+[15-Dec-2020 18:25:05 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined method pro::promaincat_list() in /home/convicti/public_html/shop/admin/view/pro/edit.php:16
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cpro.php(34): require_once()
+#1 /home/convicti/public_html/shop/admin/index.php(15): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/view/pro/edit.php on line 16
+[15-Dec-2020 18:25:13 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined method pro::promaincat_list() in /home/convicti/public_html/shop/admin/view/pro/edit.php:16
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cpro.php(34): require_once()
+#1 /home/convicti/public_html/shop/admin/index.php(15): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/view/pro/edit.php on line 16
+[15-Dec-2020 18:26:04 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined method pro::promaincat_list() in /home/convicti/public_html/shop/admin/view/pro/edit.php:16
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cpro.php(34): require_once()
+#1 /home/convicti/public_html/shop/admin/index.php(15): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/view/pro/edit.php on line 16
+[15-Dec-2020 18:26:49 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined method pro::promaincat_list() in /home/convicti/public_html/shop/admin/view/pro/edit.php:16
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cpro.php(34): require_once()
+#1 /home/convicti/public_html/shop/admin/index.php(15): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/view/pro/edit.php on line 16
+[15-Dec-2020 18:28:30 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/convicti/public_html/shop/admin/view/layout/header.php:1) in /home/convicti/public_html/shop/admin/controller/Cpro.php on line 30
+[15-Dec-2020 18:56:04 Asia/Tehran] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pro::pro_edit(), 2 passed in /home/convicti/public_html/shop/admin/controller/Cpro.php on line 28 and exactly 3 expected in /home/convicti/public_html/shop/admin/model/Mpro.php:40
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cpro.php(28): pro->pro_edit(Array, '1')
+#1 /home/convicti/public_html/shop/admin/index.php(15): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mpro.php on line 40
+[15-Dec-2020 18:56:39 Asia/Tehran] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pro::pro_edit(), 2 passed in /home/convicti/public_html/shop/admin/controller/Cpro.php on line 28 and exactly 3 expected in /home/convicti/public_html/shop/admin/model/Mpro.php:40
+Stack trace:
+#0 /home/convicti/public_html/shop/admin/controller/Cpro.php(28): pro->pro_edit(Array, '1')
+#1 /home/convicti/public_html/shop/admin/index.php(15): require_once('/home/convicti/...')
+#2 {main}
+  thrown in /home/convicti/public_html/shop/admin/model/Mpro.php on line 40
+[15-Dec-2020 19:01:04 Asia/Tehran] PHP Warning:  Illegal offset type in /home/convicti/public_html/shop/admin/controller/Cpro.php on line 28
+[15-Dec-2020 19:54:22 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/convicti/public_html/shop/admin/model/Mindex.php on line 16

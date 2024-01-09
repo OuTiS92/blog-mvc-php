@@ -1,0 +1,41 @@
+[04-Dec-2020 22:37:18 Asia/Tehran] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/convicti/public_html/shop/public/config.php on line 15
+[04-Dec-2020 22:37:18 Asia/Tehran] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/convicti/public_html/shop/public/config.php on line 15
+[04-Dec-2020 22:37:48 Asia/Tehran] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/convicti/public_html/shop/public/config.php on line 15
+[04-Dec-2020 22:37:48 Asia/Tehran] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/convicti/public_html/shop/public/config.php on line 15
+[04-Dec-2020 22:37:49 Asia/Tehran] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/convicti/public_html/shop/public/config.php on line 15
+[04-Dec-2020 22:37:49 Asia/Tehran] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/convicti/public_html/shop/public/config.php on line 15
+[04-Dec-2020 22:41:10 Asia/Tehran] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/convicti/public_html/shop/public/config.php on line 15
+[04-Dec-2020 22:41:10 Asia/Tehran] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/convicti/public_html/shop/public/config.php on line 15
+[04-Dec-2020 22:41:52 Asia/Tehran] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/convicti/public_html/shop/public/config.php on line 15
+[04-Dec-2020 22:41:52 Asia/Tehran] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/convicti/public_html/shop/public/config.php on line 15
+[04-Dec-2020 22:44:20 Asia/Tehran] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/convicti/public_html/shop/public/config.php on line 14
+[04-Dec-2020 22:44:20 Asia/Tehran] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/convicti/public_html/shop/public/config.php on line 14
+[04-Dec-2020 22:45:41 Asia/Tehran] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/convicti/public_html/shop/public/config.php on line 13
+[04-Dec-2020 22:45:41 Asia/Tehran] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/convicti/public_html/shop/public/config.php on line 13
+[04-Dec-2020 22:45:55 Asia/Tehran] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/convicti/public_html/shop/public/config.php on line 13
+[04-Dec-2020 22:45:55 Asia/Tehran] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/convicti/public_html/shop/public/config.php on line 13
+[04-Dec-2020 22:49:19 Asia/Tehran] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/convicti/public_html/shop/public/config.php on line 13
+[04-Dec-2020 22:49:19 Asia/Tehran] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/convicti/public_html/shop/public/config.php on line 13
+[04-Dec-2020 22:49:21 Asia/Tehran] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/convicti/public_html/shop/public/config.php on line 13
+[04-Dec-2020 22:49:21 Asia/Tehran] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/convicti/public_html/shop/public/config.php on line 13
+[04-Dec-2020 22:59:11 Asia/Tehran] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'convicti'@'iran9.hostnegar.com' (using password: YES) in /home/convicti/public_html/shop/public/config.php on line 13
+[04-Dec-2020 23:02:58 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'convicti'@'158.58.187.43' to database 'shop' in /home/convicti/public_html/shop/public/config.php:2
+Stack trace:
+#0 /home/convicti/public_html/shop/public/config.php(2): PDO->__construct('mysql:host=158....', 'convicti', 'amir1376@amirho...')
+#1 {main}
+  thrown in /home/convicti/public_html/shop/public/config.php on line 2
+[04-Dec-2020 23:03:00 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'convicti'@'158.58.187.43' to database 'shop' in /home/convicti/public_html/shop/public/config.php:2
+Stack trace:
+#0 /home/convicti/public_html/shop/public/config.php(2): PDO->__construct('mysql:host=158....', 'convicti', 'amir1376@amirho...')
+#1 {main}
+  thrown in /home/convicti/public_html/shop/public/config.php on line 2
+[04-Dec-2020 23:03:12 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'convicti'@'158.58.187.43' to database 'shop' in /home/convicti/public_html/shop/public/config.php:2
+Stack trace:
+#0 /home/convicti/public_html/shop/public/config.php(2): PDO->__construct('mysql:host=158....', 'convicti', 'amir1376@amirho...')
+#1 {main}
+  thrown in /home/convicti/public_html/shop/public/config.php on line 2
+[04-Dec-2020 23:03:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'convicti'@'158.58.187.43' to database 'shop' in /home/convicti/public_html/shop/public/config.php:2
+Stack trace:
+#0 /home/convicti/public_html/shop/public/config.php(2): PDO->__construct('mysql:host=158....', 'convicti', 'amir1376@amirho...')
+#1 {main}
+  thrown in /home/convicti/public_html/shop/public/config.php on line 2
